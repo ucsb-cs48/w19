@@ -11,7 +11,7 @@ Basic Facts
 
 * **Instructor**:  [Phill Conrad](http://www.cs.ucsb.edu/~pconrad) (contact via Piazza)
    * Use the "instructor messsage" feature to contact Prof. Conrad, as well as all TAs, Readers and Mentors
-* **Lecture**: TIME TBA ROOM TBA. ATTENDANCE REQUIRED. 
+* **Lecture**: 2pm-3:15pm MW. ROOM TBA. ATTENDANCE REQUIRED. 
 * **TAs**: {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute discussion section) Thursday {{site.discussion_section_times}}, Phelps 3525. ATTENDANCE REQUIRED.                                         
