@@ -7,14 +7,6 @@ permalink: "/project_list/"
 
 # Projects:
 
-<ul>
-    {%- for p in site.project -%}
-        {%- if p.num -%}
-	{%- elsif p.title -%}
-          <li><a href="{{p.url | relative_url}}">{{p.title}}</a></li>	
-	{%- endif -%}
-    {%- endfor -%}
-</ul>
-
+{% include project_pages.html %}
 {% include project_table.html %}
 
