@@ -80,6 +80,10 @@ collections:
     output: true
     permalink: /lab/:path/
     last_before: false
+  project:
+    output: true
+    permalink: /project/:path/
+    last_before: false
   exam:
     output: true
     permalink: /exam/:path/
@@ -117,6 +121,12 @@ defaults:
     scope:
       path: ""
       type: lab
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: project
     values:
       layout: lab
   - 
