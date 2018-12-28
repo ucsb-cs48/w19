@@ -20,7 +20,7 @@ permalink: "/"
 </div>
 
 {% include collapse-button.html label="Projects" id="projects" %}
-<div class="collapse" id="labs">
+<div class="collapse" id="projects">
  <div class="card card-body">
  {% include project_pages.html %}
  {% include project_table.html %}
@@ -50,9 +50,9 @@ permalink: "/"
 
 {% include collapse-button.html label="Lectures" id="lectures" %}
 <div class="collapse" id="lectures">
- <div class="card card-body">
+ <div class="card card-body" markdown="1">
 
-  See also: [LECTURE* repos]({{site.github_org_url}}?utf8=%E2%9C%93&q=LECTURE&type=&language=) from <{{site.github_org_url}}>}}>
+  See also: [LECTURE* repos]({{site.github_org_url}}?utf8=%E2%9C%93&q=LECTURE&type=&language=) from <{{site.github_org_url}}>
   
 {%include lectures_table.html %}
  </div>

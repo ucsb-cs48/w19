@@ -23,6 +23,8 @@ main_dropdown:
    items:
      - title: Topics
        url: /topic_list/
+     - title: Patterns
+       url: /patterns_list/
 
 offerings:
    title: W19

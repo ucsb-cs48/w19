@@ -1,9 +1,8 @@
 ---
 layout: default
-title: rules
+title: Rules
 ready: true
-desc: "Project Rules"
-
+desc: "Rules governing group formation, project selection, and project completion"
 ---
 
 # Group formation
@@ -26,48 +25,83 @@ about programming, at least not programming at the method or even class level.
 Therefore, what we are looking for in projects are problem domains that
 are "interesting" - i.e., have
 
-
 * around two dozen key concepts, and
 * interesting relationships between these concepts.
 
-Suppose you have a choice between two projects, A and B:
+<style>
+.good-choice { background-color: lightgreen; }
+.poor-choice { background-color: #ff8070; }
+.highlighted-course-rule { background-color: lightyellow }
+</style>
 
-<blockquote>
-<table border="1" cellpadding=5>
-  <tr>
-    <th bgcolor="lightgreen">Project A - GOOD Choice
-    <th bgcolor="#ff8070">Project B - POOR Choice
-  <tr>
-    <td bgcolor="lightgreen">Has many concepts with complex relationships between them,
-        but each resulting class is simple to implement.
-    <td bgcolor="#ff8070">Has fewer concepts, and classes are difficult to implement
-        due to tricky algorithms and/or fancy graphics.
-</table>
-</blockquote>
+Suppose you have a choice between two projects, A and B.
 
-For CS 48, project A
-is a <em>much</em> better choice. A key goal is for you to learn how to analyze
-and design, and thus a major portion of your work on the project should
-be in that area.
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body good-choice">
+	<h5 class="card-title">Project A: Good Choice</h5>
+	<p class="card-text">
+	  Has many concepts with complex relationships between them,
+	  but each resulting class is simple to implement.
+	</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body poor-choice">
+	<h5 class="card-title poor-choice">Project B: Poor Choice</h5>
+	<p class="card-text poor-choice">
+	  Has fewer concepts, and classes are difficult to
+	  implement due to tricky algorithms and/or fancy graphics.
+	</p>	    
+      </div>
+    </div>
+  </div>
+</div>
 
-# Good news: you may choose *almost* any type of project you want
 
-Almost, subject to some limitations:
+For CS 48, project A is a *much* better choice. A key goal is for you
+to learn how to analyze and design, and thus a major portion of your
+work on the project should be in that area.
 
+# *Almost* any type of project you want
 
-* You must create something that someone will actually use.
-   * If it's a game, it should be a game people will actually play, and enjoy playing
-   * If it's a tool, it should be a tool people will actually use.
+Good news! You may choose *almost* any type of project you
+want&mdash;subject to some limitations:
 
-As an example of something that you could build, but that would NOT be acceptable: supposed you built a better interface for a ride sharing service such as Lyft or Uber.   That's clearly useful to someone.  But no-one is actually going to use it, unless you have a bunch of willing drivers ready to start driving people around.
+The first is that you must create **something that someone will actually use**.
+* If it's a game, it should be a game people will actually play, and enjoy playing
+* If it's a tool, it should be a tool people will actually use.
 
-Another example: an airline reservations systems.  Unless you own planes, and have airport slots, and cleararance from the FAA, etc, you aren't going to be able to actually have anyone try out your system for *real*.
+As an example of something that you could build, but that would NOT be
+acceptable: supposed you built a better interface for a ride sharing
+service such as Lyft or Uber.  That's clearly useful to someone.  But
+no-one is actually going to use it, unless you *actually have* a bunch of willing
+drivers ready to start driving people around using *your app*.
+
+Another example: an airline reservations systems.  Unless *you own
+planes*, and have airport slots, and cleararance from the FAA, etc, you
+aren't going to be able to actually have anyone try out *your system*
+for *real*.
+
+# Why do we need real users?
+
+We are concentrating on the Agile software design methodology.
+
+* Involving actual users in the design of the software is essential to Agile
+* If there are no *real* users, there is no *real* Agile.
+
+You get plenty of practice writing code that no "real" user will ever
+use in CS8, CS16, CS24, CS32, CS64 CS130A, CS160, CS170, and many more
+courses.  There are very few courses in the curriculum where you have
+the opportunity to write code for real users: those being CS48, parts
+of CS56, and capstone (CS189A/B) if you take it.
 
 So concentrate on something that people can actually use.
 
 # Programming language and other source code requirements
-
-In order to 
 
 As CMPSC 32 is a pre-requisite for this course, every enrolled student is assumed to possess
 sufficient C++ programming knowlege to be an effective team member if the project is mostly written
@@ -77,67 +111,69 @@ CMPSC 56 is another required course for CS majors, many students have
 or are gaining experience with the Java programming language and
 related libraries.   If all of your team members are comfortable with Java, that's an acceptable choice.
 
+Therefore, heed the following language requirement.
 
-Therefore, heed
-the following language requirement.</p>
-<blockquote>
-<table border="1" cellpadding=5 bgcolor="lightyellow">
-   <tr><td><strong>Programming language requirement</strong><br>
-      The bulk of your project must be implemented in C++ (2011 standard) or Java
-      (SE 1.8). Another object-oriented language may only be used with explicit permission.
-      Small, auxiliary parts may be composed in Javascript, Python or another
-      scripting language if your TA approves it.
-   </td></tr>
-</table>
-</blockquote>
-<p>Additionally:</p>
-<ul>
-<li>Each non-nested class (and interface) must be in a file by itself. Except for very simple C++
-    classes or template classes, you should have separate files for the declarations (.h)
-    and definitions (.cpp). Every Java class must be in its own file.</li>
-<li>Every public class, method/function or enum must be properly commented (in the .h files if C++,
-    or properly formatted Javadoc comments if Java).</li>
-<li>The bulk of your code must be <em>original</em> - written by your group <em>this quarter</em>.
-    Of course, your source may use any parts of the standard libraries, but please obtain
-    permission from your TA to use any non-standard libraries.<br>
-    <strong>Note:</strong> your system design must be original too, or it must be properly
+<div class="card">
+<div class="card-body highlighted-course-rule">
+<h5 class="card-title" >
+  Programming Language Requirement
+</h5>
+<div class="card-text" markdown="1">
+
+The bulk of your project must be implemented in C++ (C++11 ok) or Java
+(targeting Java Version 11).
+
+Another object-oriented language may only be used with explicit
+permission.  Small, auxiliary parts may be composed in Javascript,
+Python or another scripting language if your TA/mentor approves it.
+
+</div><!-- card-text -->
+</div><!-- card-body -->
+</div><!-- card -->
+
+# Additionally:
+
+
+* Each non-nested class (and interface) must be in a file by itself.
+
+C++ specific:
+
+* Except for very simple C++ classes or template classes, you should have separate files
+  for the declarations (`.h`) and definitions (`.cpp`)
+* Every public class, method/function or enum must be properly commented (in the .h files if C++,
+  or properly formatted Javadoc comments if Java).
+
+* The code for which you receive credit must be *original*&mdash;written by **your group** during
+  *this quarter* for *this course*.
+
+   * Of course, your source may use any parts of the standard libraries, but consult with your
+     TA/mentor before incorporating third-party libraries.
+
+* **Note:**  your system design must be original too, or it must be properly
     credited. See the special note about plagiarism below.
-</ul>
 
+<div class="card">
+<div class="card-body highlighted-course-rule">
+<h5 class="card-title" >
+About technical expertise
+</h5>
+<div class="card-text" markdown="1">
 
-# About technical expertise
-
-The instructor and TAs will <em>not</em> assume responsibility for teaching you how to accomplish every
+The instructor and TAs will *not* assume responsibility for teaching you how to accomplish every
 possible programming task you need to learn - whether or not we are familiar with these tasks
 ourselves. A large part of a developer's job is to learn how to do things they have not been
 trained to do. You must research any techniques that are novel to you: find examples in books
 or by searching the Internet.
 
 
+</div><!-- card-text -->
+</div><!-- card-body -->
+</div><!-- card -->
+
 
 # Grading guidelines
 
-The project counts 75 percent of each student's course grade, broken down as follows:
-
-
-* 50 percent is on the basis of the group grade, awarded equally to all members of a given group
-   that remain in good standing in the group.
-* 25 percent more is available as a "Teamwork Credit" - to be awarded based on the
-    recommendations of other members in each student's group.</li>
-</ul>
-   <blockquote>
-   <table border="1" cellpadding=5 bgcolor="lightyellow">
-   <tr><td><strong>About individual accountability</strong><br>
-      Near the end of the quarter, every student will be given an opportunity to submit a specific
-      recommendation to reduce the Teamwork Credit of another member in their group.
-      If a student submits no such recommendation, it means that student effectively
-      recommends the full 25 percent be awarded to each other group member.
-   </td></tr>
-   </table>
-   </blockquote>
-<p>
-
-## The Group grade, and "good standing"
+The project counts 75 percent of each student's course grade.
 
 The group grade is the accumulation of the following components:
 
@@ -169,24 +205,29 @@ Course staff will take attendance at standups, but it is up to teams themselves 
 
 Ultimately, the decision about whether a team member is in good standing lies with the instructor.  However, the instructor will use the norms, and communication processes established by the team, as well as its own documented efforts to resolve the matter, in making a final determination.
 
+A team member that is not in good standing with their team will
+receive a reduced grade, or a zero for the project portion of their
+final grade.  Note that a zero on the project portion guarantees a
+failing grade in the course.
+
 # A special note about plagiarism:
 
-All work that you submit must be entirely your own,
-or its origin must be properly credited. In other words, it is okay to borrow an
-idea from somewhere, but only if you tell us so. (Of course, if you borrow
+All work that you submit must be entirely your own, or its origin must
+be properly credited. In other words, it is okay to borrow an idea
+from somewhere, but only if you tell us so. (Of course, if you borrow
 a substantial part of your design, your grade may be affected.)
 
-Plagiarism is a very serious offense, and we are obligated to spend some
-effort trying to find it. If we detect it, the offending group's grade will be
-reduced by at least 40 percent even for minor infractions. For anything
-other than a minor infraction, the grade will be zero, and the students' behavior
-will be reported to the appropriate university authorities. According to university
-guidelines, "any act of academic dishonesty ... is unacceptable and will
-be met with disciplinary action".
-
+Plagiarism is a very serious offense, and we are obligated to spend
+some effort trying to find it. If we detect it, the offending group's
+grade will be reduced by at least 40 percent even for minor
+infractions. For anything other than a minor infraction, the grade
+will be zero, and the students' behavior will be reported to the
+appropriate university authorities. According to university
+guidelines, "any act of academic dishonesty ... is unacceptable and
+will be met with disciplinary action".
 
 
 Credits:
 * Updated December 27, 2018, P. Conrad.
-* Based on previous CS48 course material provided by C. Michael Costanzo and Chandra Krinz.
+* Based on previous CS48 course material from  provided by C. Michael Costanzo and Chandra Krinz.
 
