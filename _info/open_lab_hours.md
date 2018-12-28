@@ -1,10 +1,10 @@
 ---
-title: "F18 Open Lab Hours"
+title: "Open Lab Hours"
 layout: default
 ready: true
 ---
 
-# {{page.title}}
+# {{site.qtr}} {{page.title}}
 
 <style>
 iframe { width: 100%; height: 1400px; overflow: scroll; }  
