@@ -1,5 +1,5 @@
 ---
-title: CS56, Fall 2018, pconrad
+title: "Staff List"
 permalink: "/staff_list/"
 ---
 
