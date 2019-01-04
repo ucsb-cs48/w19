@@ -1,59 +1,27 @@
 ---
-title: Draft Project
+title: First Sprint
 layout: default
 ---
 
-# Draft Project Instructions
+# First Sprint
 
-<p>The object of this assignment is to complete at least one full development iteration,
-including a working software system and associated analysis and design documentation.</p>
+The object of this assignment is to complete one full development iteration, culiminating in 
+delivering a working software system.
 
-<a name="analysis"><h3>Domain Analysis</h3></a>
-<p>Perform a domain analysis for the current development iteration, and
-   prepare the following artifacts:</p>
-    <ol type=a>
-    <li><em>Begin</em> a <u>static class diagram</u> - similar to this
-        <a href="domainmodel.png">Figure 12.9</a> from the Larman text.
-        Include <em>domain</em> classes only at this stage.
-        Use proper UML notation. Class attributes should be included now, but
-        attribute types are optional. You will complete this diagram during the design phase.</li>
-    <!--
-    <li><u>System sequence diagrams</u> - like this <a href="ssdannotated.png">Figure 9.1</a>
-        from Larman (but omit the annotations).
-        A separate diagram should be prepared for each use case in this development cycle.
-        It is up to you whether you want to include use case text with the diagram like this
-        <a href="ssdwithuctext.png">Figure 9.5</a> example from the Larman text.</li>
-    -->
-    </ol></li>
+You'll conduct a user story mapping exercise to produce a set of user stories.
 
-<a name="design"><h3>System Design</h3></a>
-<p>Design a system to satisfy the current iteration requirements, and
-    prepare/improve the following design artifacts:</p>
-    <ol type=a>
-	    <li>Identify two design patterns that work for your project design/implementation and describe how you have implemented them in your project.  Give a link to the github commit(s) that provide the implementation and tests.</li>
-    <li>Expanded and upgraded <u>static class diagram(s)</u> - with design features as appropriate.
-        First be sure to allocate your classes to meaningful sub-systems (a.k.a. <em>packages</em>).
-        <ul type="circle">
-        <li>Add operations, showing parameters and types, and return types if not void.</li>
-        <li>Show attribute types (e.g., <tt>score : double</tt>) now too.</li>
-        <li>Remember to add any new classes introduced during system design.</li>
-        <li>Exclude
-        details of packages not to be created this quarter by your group - use the UML notation for
-        a package to show each such item as a single box in your diagrams. For example, if you use any wxWidgets components, then just show a package named wxWidgets in your diagram.
-        </ul></li>
-   <li>At least 10 new use cases or user stories, with acceptance tests.  2 of them should be the ones used for your Interaction Diagrams (described below) and all should fit within your system design.</li>
-    <li>At least two <u>interaction diagrams</u>. See several example diagrams and explanations
-        about interaction diagram notation in Larman's <a href="InteractionLarman.pdf">Chapter 15</a>.
-        <ul type="circle">
-        <li>Ideally you would create one interaction diagram for each system event. For this
-        assignment we want you to choose at least two <em>interesting</em> events - i.e., ones that
-        involve multiple steps and objects.</li>
-        <li>If a diagram cannot fit neatly on a page, consider splitting it into two diagrams.</li>
-        </ul></li>
-    <li>One or more <u>state diagram(s)</u> like this <a href="statediagram.png">Figure 29.3</a>
-        from the Larman text.
-        Focus on <em>external system events</em> in the context of use cases.</li>
-    </ol>
+You'll then:
+* create issues for those user stories
+* do point estimation on those user stories
+* write up acceptance tests for each of those user stories
+* assign a subset of those user stories to developers
+* drag those issues into the In-Progress column of your Kanban board
+* write unit tests and integration tests, as appropriate for those issues
+* complete the issues
+* do QA on the issues
+* do one or more pull requests for these issues to the master branch
+* accept those pull requests to deliver working software to the master branch.
+
 
 <a name="implement"><h3>Implementation, Testing and User Instructions</h3></a>
 <ol type="a">
