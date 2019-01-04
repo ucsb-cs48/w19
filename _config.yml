@@ -2,7 +2,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-remote_theme: pconrad/ucsb-cs-jekyll-theme-try2
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs48.github.io # the base hostname & protocol for your site
 baseurl: /w19  # the subpath of your site, e.g. "/blog"

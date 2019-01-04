@@ -25,7 +25,9 @@ main_dropdown:
        url: /topic_list/
      - title: Patterns
        url: /patterns_list/
-
+     - title: Standards
+       url: /standards_list/
+       
 offerings:
    title: W19
    url: /	
