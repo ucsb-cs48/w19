@@ -94,7 +94,7 @@ Notes sheets on exams
 &nbsp;
 </div>
 
-<div style="font-size: 120%;">
+<div style="font-size: 120%;" markdown="1">
 
 Project Points
 ==============
@@ -188,7 +188,7 @@ long line of students), then you lose the right to appeal your grade.
 &nbsp;
 </div>
 
-<div style="font-size: 120%;">
+<div style="font-size: 120%;" markdown="1">
 
 
 Accommodations for disabilities
