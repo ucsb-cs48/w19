@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab00
-ready: true
+ready: false
 desc: "Getting Started"
 assigned: 2019-01-10 16:00
 due: 2019-01-10 18:50
@@ -50,7 +50,11 @@ email, and confirm that email address.
 
 ## Step 3: Get setup with gradescope
 
-We will use gradescope to grade all your homeworks, exams and lab/programming assignments. I have manually added everyone (using your @umail.ucsb.edu accounts) currently enrolled in the course to the Gradescope system. You should have received an email notification with instructions about logging into gradescope. Once you follow the instructions to set your password, you should have access to our course on Gradescope. You should see {{site.course}} in your {{site.qtr}} courses.
+We will use gradescope to grade all your homeworks, exams and a limited number of programming assignments. I have manually added everyone (using your @umail.ucsb.edu accounts) currently enrolled in the course to the Gradescope system.   N
+
+**IMPORTANT:** Note that even though the university has switched to `@ucsb.edu` addresses, the GOLD and EGrades systems **still use `@umail.ucsb.edu` addresses**.  For this reason, in order to ensure that your work is credited to you, please continue to use your `@umail.ucsb.edu` address (which goes to the same Gmail based inbox) for registering for websites related to the course such as Gradescope, Piazza, etc.
+
+You should have received an email notification with instructions about logging into gradescope. Once you follow the instructions to set your password, you should have access to our course on Gradescope. You should see {{site.course}} in your {{site.qtr}} courses.
 
 The lab assignment {{page.num}} should appear in your Gradescope dashboard in {{site.course}}. You will need to submit your code for {{page.num}} using this page.
 
@@ -60,9 +64,11 @@ Visit <https://github.ucsb.edu> and login with your CSIL account, to establish y
 
 ## Step 5: Some coding
 
+We are going to do a limited amount of coding in both C++ and Java.  If you've never used Java before, don't worry: the Java coding we'll be doing is straightforward, and does not require Java background&mdash;your C++ background from CS32 will be sufficient.
+
 1.   Login to your CSIL account, and create a <tt>~/{{site.course | downcase }}</tt> subdirectory.
 
-2.  Next, we are all going to make sure we have the basic Hello World skills down in Java, Python and C++;
+2.  Next, we are all going to make sure we have the basic Hello World skills down in C++, Java, and Python.
    not only to make sure we know what we are doing, but to make sure our CSIL accounts are working
    properly.   This will walk you through "Hello, World" in all three languages.
 
@@ -99,6 +105,5 @@ Visit <https://github.ucsb.edu> and login with your CSIL account, to establish y
    7. Upload your work to Gradescope.com for grading.    If you are working from your own machine (i.e. ssh'ing into CSIL), you'll need to transfer the file to your own machine before you can upload it for grading.    
       * If you aren't sure how, there is a link on the CS16 web page that explains [how to copy files between CSIL and your own machine](https://ucsb-cs16.github.io/topics/csil_copying_files/).
 
-   8. Once you see that you have a score of 100 for the lab on Gradescope, you are *done* with lab00.   If [lab01](/labs/lab01/) is ready, start on lab01.  Otherwise, ask a mentor or TA whether there is anything else to do today before you just
-          take off.
+   8. Once you see that you have a score of 100 for the lab on Gradescope, you are *done* with lab00.   If [lab01](/labs/lab01/) is ready, start on lab01.  Otherwise, ask a mentor or TA whether there is anything else to do today before you just take off.
    
