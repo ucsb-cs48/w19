@@ -2,12 +2,10 @@
 name: "Wei-Tung"
 role: "Mentor"
 bio: >
-    Fill in bio here.  Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Quisque sed rutrum arcu. Sed scelerisque accumsan
-    nulla, eu placerat ante c ondimentum a. Nulla et accumsan
-    ipsum. Sed finibus turpis ut hendrerit ultricies. Etiam dolor ex,
-    consectetur sit amet velit vitae, eleifend tristique leo. Sed vel
-    molestie velit.
+   My name is Wei Tung. I'm currently a third year computer science major. I have done numerous mobile (Android)
+   and website application projects and internships over the past few years. I have not decided what topic I'll
+   focus on in the future but currently I enjoy writing applications, analyzing data, and a little bit of machine
+   learning. Besides programming, I like to listen to music, play console games, and eat.
 
 img: wei-tung.jpg
 img100w: wei-tung_100w.jpg

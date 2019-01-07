@@ -8,10 +8,10 @@ demo_date_3: 2019-03-13
 
 # Demo 
 
-Final project presentations will start on  {{ demo_date_1 }}.  *All groups should be ready to present on this date.*
+Final project presentations will start on  {{ page.demo_date_1 }}.  *All groups should be ready to present on this date.*
 Groups that volunteer will be scheduled first.  After that, the order will be randomized.   
 
-Final project presentations will continue on {{ demo_date_2 }}, and finish up on  {{ demo_date_3 }}.
+Final project presentations will continue on {{ page.demo_date_2 }}, and finish up on  {{ page.demo_date_3 }}.
 
 Grading for this assignment will focus on the effectiveness of the demonstrations, not the projects per se.
 
