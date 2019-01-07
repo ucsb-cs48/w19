@@ -4,10 +4,8 @@ layout: handout
 ready: false
 ---
 
-<div style="font-size:110%;" markdown="1">
 
-Basic Facts
------------
+# Basic Facts
 
 * **Instructor**:  [Phill Conrad](http://www.cs.ucsb.edu/~pconrad) (contact via Piazza)
    * Use the "instructor messsage" feature to contact Prof. Conrad, as well as all TAs, Readers and Mentors
@@ -19,8 +17,7 @@ Basic Facts
 
 For course website links, visit the course Gauchospace site.
 
-About the Course
-----------------
+# About the Course
 
 The [official course description](http://www.cs.ucsb.edu/education/courses/cmpsc-48) is here:
 
@@ -34,12 +31,9 @@ development, testing and test-driven development, and software
 reliability and robustness. Students present and demonstrate final
 projects.
 
-</div>
 
-<div style="page-break-before: always; font-size:100%;" markdown="1">
 
-Final Course Grades
-===================
+# Final Course Grades
 
 The formula to determine your course grade average is explained in the table below.
 
@@ -88,30 +82,17 @@ Notes sheets on exams
 
 
 
-</div>
 
-<div style="page-break-before:always;">
-&nbsp;
-</div>
 
-<div style="font-size: 120%;" markdown="1">
-
-Project Points
-==============
+# Project Points
 
 Information about project grading will be discussed in a separate document
 and released by Wednesday January 9.
 
-</div>
 
-<div style="page-break-before:always;">
-&nbsp;
-</div>
 
-<div style="font-size: 120%;" markdown="1">
 
-Late Labs
----------
+# Late Labs
 
 The policy is simple, and is based on the idea that the primary
 purpose of the deadlines is to allow the TA manage his/her
@@ -128,19 +109,15 @@ So:
 -   There is NO GUARANTEE that late labs will be graded at all. The TA will simply start work at some point after the deadline, and grade until he/she is finished. At that time, he/she will "close the books" on that particular lab, and any work not submitted at that time will NOT be considered.
 
 
-Attendance
-==========
+# Attendance
 
 This course is, to a large extent, about *process*,  including the process by which indivduals work together on a team.
 
 Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here.
 
-</div>
 
-<div style="page-break-before: always; font-size:120%;" markdown="1">
 
-Questions about grades
-----------------------
+# Questions about grades
 
 **Summary: regrade requests must be made only on GradeScope, and always within one week.**
 
@@ -182,38 +159,27 @@ posted. If you wait until the last office hours opportunity during the
 two week window, and you are not able to be seen (e.g. because of a
 long line of students), then you lose the right to appeal your grade.
 
-</div>
-
-<div style="page-break-before:always;">
-&nbsp;
-</div>
-
-<div style="font-size: 120%;" markdown="1">
 
 
-Accommodations for disabilities
--------------------------------
 
-Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at http://dsp.sa.ucsb.edu/. Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
+# Accommodations for disabilities
 
-Managing stress
----------------
+Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at <http://dsp.sa.ucsb.edu/>. Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
 
-Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit http://counseling.sa.ucsb.edu/ .
+# Managing stress
 
-Responsible scholarship
------------------------
+Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit <http://counseling.sa.ucsb.edu/> .
 
-Honesty and integrity in all academic work is essential for a valuable educational experience.  The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students’ responsibilities, available on their website at: http://judicialaffairs.sa.ucsb.edu.  Students are responsible for educating themselves on the policies and to abide by them.
+# Responsible scholarship
 
-Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit http://clas.sa.ucsb.edu
+Honesty and integrity in all academic work is essential for a valuable educational experience.  The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students’ responsibilities, available on their website at: <http://judicialaffairs.sa.ucsb.edu>.  Students are responsible for educating themselves on the policies and to abide by them.
 
-Standard Disclaimer
--------------------
+Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit <http://clas.sa.ucsb.edu>
+
+# Standard Disclaimer
 
 This syllabus is as accurate as possible, but is subject to change at
 the instructor's discretion, within the bounds of UC policy.
 
 (end of syllabus)
 
-</div>
