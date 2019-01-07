@@ -2,12 +2,7 @@
 name: "Nick"
 role: "Mentor"
 bio: >
-    Fill in bio here.  Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Quisque sed rutrum arcu. Sed scelerisque accumsan
-    nulla, eu placerat ante c ondimentum a. Nulla et accumsan
-    ipsum. Sed finibus turpis ut hendrerit ultricies. Etiam dolor ex,
-    consectetur sit amet velit vitae, eleifend tristique leo. Sed vel
-    molestie velit.
+    Nick Duncan is a 3rd year Computer Science major. His interests lie in the field of computer security. Nick has completed several games and web applications as well as an internship working with TCP Client/Server applications and ARM/Linux/FreeRTOS based embedded systems. When not in class, he enjoys hiking, fishing, and drawing.
 
 img: nick.jpg
 img100w: nick_100w.jpg
