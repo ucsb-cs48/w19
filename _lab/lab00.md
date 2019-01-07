@@ -8,6 +8,10 @@ due: 2019-01-10 18:50
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
 ---
 
+STILL A WORK IN PROGRESS--DO NOT START THIS LAB YET.
+
+WE MIGHT CHANGE IT COMPLETELY BEFORE FRIDAY.
+
 If you find typos or problems with the lab instructions, please report
 them on Piazza
 
