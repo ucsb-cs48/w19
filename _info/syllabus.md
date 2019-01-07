@@ -59,12 +59,11 @@ A+ grades: These may be awarded to the very best performing students in the clas
 
 | Grade Item                                                                   | Percentage of Final Grade |
 |------------------------------------------------------------------------------|---------------------------|
-| Midterm 1 | 20 % |
-| Midterm 2 | 20 % |
-| Final | 20 % |
+| Midterm  | 15 % |
+| Final | 15 % |
 | Hwks, In Class Assignments | 10 % |
-| Labs (typically closed source, some open source) | 10 % |
-| Projects (open source) | 20 % |
+| Labs | 10 % |
+| Projects  | 50 % |
 
 Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
 -------------------------------------------------------
@@ -87,16 +86,7 @@ Notes sheets on exams
 -   So, if you need a copy of it, make a copy BEFORE you come to the exam.
 
 
-More On Grading
----------------
 
-We'll have three exams--two midterms and a final. That part of the course will be traditional. And, there will be some traditional lab and homework assignments (and perhaps quizzes) where "everybody in the class does roughly the same thing"---those make up another 20% of your grade.
-
-Some homework assignments might be submitted on Gradescope, and those may have the option of submitting as a pair or as a group.  If you *choose* this option, you are making *one* submission for the pair or group, and everyone gets a grade based on that submission.  If you just work together as "homework buddies", you are not required to make a pair submission, but if you do, you both earn the same grade (even if you have an earlier submission in your submission history.)
-
-Note that, at the discretion of the instructor, part of one of the midterms, and/or part of the final exam may a "lab final", i.e. a set of exercises done in the laboratory setting under exam conditions.   The division of points between written final the lab final will be at the discretion of the instructor, and announced later in the quarter.
-
-The remaining part of your grade--the last 20%--comes from project points which are explained in more detail later in this syllabus.
 
 </div>
 
@@ -109,7 +99,8 @@ The remaining part of your grade--the last 20%--comes from project points which 
 Project Points
 ==============
 
-TBD
+Information about project grading will be discussed in a separate document
+and released by Wednesday January 9.
 
 </div>
 
@@ -140,7 +131,9 @@ So:
 Attendance
 ==========
 
-TBD
+This course is, to a large extent, about *process*,  including the process by which indivduals work together on a team.
+
+Our class meeting times are the only scheduled times our teams definitely come together to meet.  So it is essential that you are here.
 
 </div>
 
