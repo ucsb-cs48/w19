@@ -111,37 +111,28 @@ CMPSC 56 is another required course for CS majors, many students have
 or are gaining experience with the Java programming language and
 related libraries.   If all of your team members are comfortable with Java, that's an acceptable choice.
 
-Therefore, heed the following language requirement.
+Another object-oriented language may only be used with explicit permission, and only if there is a compelling
+justification for using that language in contradistinction to C++ or Java.
 
-<div class="card">
-<div class="card-body highlighted-course-rule">
-<h5 class="card-title" >
-  Programming Language Requirement
-</h5>
-<div class="card-text" markdown="1">
-
-The bulk of your project must be implemented in C++ (C++11 ok) or Java
-(targeting Java Version 11).
-
-Another object-oriented language may only be used with explicit
-permission.  Small, auxiliary parts may be composed in Javascript,
-Python or another scripting language if your TA/mentor approves it.
+For webapps, client side code may be written in JavaScript, but it should be
+well-structured, well-organized and well-tested JavaScript.
 
 </div><!-- card-text -->
 </div><!-- card-body -->
 </div><!-- card -->
 
-# Additionally:
+# Additional Requirments.
 
 
-* Each non-nested class (and interface) must be in a file by itself.
+## C++ specific:
 
-C++ specific:
+* Should conform to the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-* Except for very simple C++ classes or template classes, you should have separate files
-  for the declarations (`.h`) and definitions (`.cpp`)
-* Every public class, method/function or enum must be properly commented (in the .h files if C++,
-  or properly formatted Javadoc comments if Java).
+## Java Specific
+
+* Should conform to the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+# Originality Requirements
 
 * The code for which you receive credit must be *original*&mdash;written by **your group** during
   *this quarter* for *this course*.
