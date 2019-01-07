@@ -4,6 +4,14 @@ desc: "First day of class"
 lecture_date: 2019-01-07
 ---
 
+# Announcements
+
+* Sorry, no crashers: enrollment is final
+* Must attend your actual enrolled discussion section
+   * And work with folks enrolled in that section
+* [Open lab hours schedule]({{ '/info/open_lab_hours' |relative_url}})
+
+
 # Goals
 * You'll meet several of your classmates that you haven't met before
 * You'll generate and evaluate some project ideas
