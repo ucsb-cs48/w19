@@ -31,6 +31,7 @@ development, testing and test-driven development, and software
 reliability and robustness. Students present and demonstrate final
 projects.
 
+</div>
 
 
 # Final Course Grades
