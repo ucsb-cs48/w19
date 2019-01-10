@@ -15,6 +15,15 @@ WE MIGHT CHANGE IT COMPLETELY BEFORE FRIDAY.
 If you find typos or problems with the lab instructions, please report
 them on Piazza
 
+## Step 0: Find your assigned seat and locate your mentor
+
+Seating charts are here:
+
+* [4pm seating chart]({{ '/info/4pm_seating_chart/' | relative_url}}
+* [5pm seating chart]({{ '/info/5pm_seating_chart/' | relative_url}}
+* [6pm seating chart]({{ '/info/6pm_seating_chart/' | relative_url}}
+
+
 ## Step 1: Create a CoE account if you don't have one already
 
 We encourage you to complete all programming assignments by logging in
