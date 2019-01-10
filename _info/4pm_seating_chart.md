@@ -1,7 +1,6 @@
 ---
 title: "4pm Seating Chart"
 layout: default
-permalink: "/info/4pm_seating_chart/"
 ---
 
 
