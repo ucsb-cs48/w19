@@ -6,6 +6,7 @@ desc: "Getting Started"
 assigned: 2019-01-10 16:00
 due: 2019-01-10 18:50
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
+slack_url: ucsb-cs48-w19.slack.com
 ---
 
 STILL A WORK IN PROGRESS--DO NOT START THIS LAB YET.
@@ -65,4 +66,46 @@ email, and confirm that email address.
 
 Find your mentor.  The team list is here, and it will tell you who your mentor is:
 
-* [/info/team_list]({{ '/info/team_list/' | relative_url }})
+* [teams_page]({{ '/teams_page/' | relative_url }})
+
+Then, ask them to add you to the Slack for the course which is:
+
+* <{{page.slack_url}}>
+
+There should be a channel there for your team.   Find that channel and join it.
+
+## Step 4: Ask your mentor to create a repo for your team
+
+Your mentor should create a repo under the organization:
+
+* <https://github.com/ucsb-cs48-w19/>
+
+Settings for repo:
+* Public or private (your team decides)
+* `.gitignore` for whatever language your team decides
+* By default, MIT License, unless your team chooses a different one
+* The repo name should be the same as the slack channel name.  
+
+
+Your mentor should then add one team member with admin permission, who will then add all the other team members with admin permission.
+
+
+
+## Step 5: Each of you INDIVIDUALLY now makes either a fork or branch of the repo
+
+The next step is done as an individual
+
+You can either:
+
+* Clone the repo and make a branch of the repo that matches your name, e.g.
+   ```
+   git clone repo-url-goes-here
+   cd repo-name-goes-here
+   git checkout -b yourname
+   ```
+OR
+
+* Fork the repo to your own github id
+
+
+   
