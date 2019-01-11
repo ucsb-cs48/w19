@@ -76,7 +76,7 @@ There should be a channel there for your team.   Find that channel and join it.
 
 ## Step 4: Ask your mentor to create a repo for your team
 
-Your mentor should create a repo under the organization:
+First, your team must decide what language you want to use, so your mentor can choose the correct .gitignore. This choice isn't permanent. Once you've communicated your choice to your mentor, they should create a repo under the organization:
 
 * <https://github.com/ucsb-cs48-w19/>
 
@@ -107,5 +107,10 @@ OR
 
 * Fork the repo to your own github id
 
+## Step 6: Inside your fork/branch of the repo, create a file called team/your_first_name.md
 
+Inside your repo, make a directory called team. Inside this, create a markdown file named your_first_name.md containing a brief description of you and of your ideas for the project. Each team member should do this individually. Note that this will be publicly displayed on the course site.
    
+## Step 7: Create your NORMS.md file
+
+This is a list of ideal team behaviors, e.g. everyone arrives to meetings on time or everyone starts things tasks early. You should write this as a team, and only one student needs to submit a pull request containing this file.
