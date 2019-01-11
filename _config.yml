@@ -96,6 +96,9 @@ collections:
   staff:
     output: true
     permalink: /staff/:path
+  admin:
+    output: true
+    permalink: /admin/:path
 
 
 
@@ -153,6 +156,12 @@ defaults:
      type: staff
     values:
      layout: staff
+  -
+    scope:
+     path: ""
+     type: admin
+    values:
+     layout: default
 
   - scope:
      path: ""
