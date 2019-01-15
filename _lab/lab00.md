@@ -6,7 +6,7 @@ desc: "Getting Started"
 assigned: 2019-01-10 16:00
 due: 2019-01-18 17:00
 signup_app: https://ucsb-cs-github-linker.herokuapp.com/
-slack_url: ucsb-cs48-w19.slack.com
+slack_url: https://ucsb-cs48-w19.slack.com
 ---
 
 STILL A WORK IN PROGRESS--DO NOT START THIS LAB YET.
