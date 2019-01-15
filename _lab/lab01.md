@@ -207,34 +207,11 @@ If making a new map would help, do that.  If you are ready to go staight to user
 
 Now, we are at the part that is most important to the future success of your project, and the part for which you will be graded (this is the other 80% of your grade for today's work.)
 
-### Step 6a: Locate the repo your mentor created for you.
+Your mentor will have set up a github repo for your project under the organization [{{page.github_org}}](https://github.com/{{page.github_org}}]. 
 
-Your mentor will have set up a github repo for your project under the organization [ucsb-cs56-webapps](https://github.com/ucsb-cs56-webapps]. 
+You will now make a Kanban board as illustrated in the [video (Part 2)](https://www.youtube.com/watch?v=8U0FezxxMGU)
 
-(If you can't find that repo,  ask your mentor for help.  If that repo doesn't exist yet, you mentor should look at the [{{page.num}}\_mentors](/lab/{{page.num}}_mentors/) page for instructions on what they should do to set it up.)
-
-This repo is *read only* for you.  So you'll need to fork it, which is the next step.
-
-### Step 6b: Fork the repo into the [{{page.github_org}}](https://github.com/{{page.github_org}})  organization
-
-You will do your work in a *fork* of this repo.  Take these steps:
-1. One member of your team should fork the repo to the [{{page.github_org}}](https://github.com/{{page.github_org}}) organization.
-2. That member should then add ALL of the other members of your team to that repo as collaborators **with admin access**.
-   (If you are not sure what that means, consult with your mentor.)
-3. In the README for that fork of the repo, add a section with the heading `# Fall 2018` and under that heading, put down the first names (only) and the github ids for the members of your team.  Also write 1-2 sentences describing the main idea of your webapp (this is NOT a long detailed description; just the highest level description possible.)
-
-<div class="grade" markdown="1">
-
-**Graded**: (5 pts) You earn these points if/when you, as an individual, were:
-* present in lab on ({{page.assigned |  date: "%a, %b %d "}}, and 
-* your team has forked the repo into the [{{page.github_org}}](https://github.com/{{page.github_org}})  organization
-* you are a collaborator on that repo by the due date of the lab, ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
-
-</div>
-
-### Step 6c: Make a Kanban board, as illustrated in the [video (Part 2)](https://www.youtube.com/watch?v=8U0FezxxMGU)
-
-Now, go into your forked repo, and go to Projects, and create a project.
+Go to the github web page for your repo, and go to Projects, and create a project.
 
 * Name it the same as your project plus {{site.qxx}}
 * Create a Basic Kanban board (Todo, In Progress, Done)
@@ -247,7 +224,12 @@ Now, take your story map, and turn it into:
 
 You should end up with at least 3 issues that your team could start working on.
 
-At least one of them should be similar to this one from the video, i.e. a Spring Boot Boostrap Navigation template starter app similar to the one from [{{page.spring_boot_lab_num}}](/lab/{{page.spring_boot_lab_num}}/) where you put together a basic User Interface using Bootstrap with some basic menus and placeholders that support the user interaction you anticipate in your app:
+At least one of them should be a "hello world" app in the framework that your team has chosen.  For THIS particular issue ONLY, please create as many copies of the issue as there will be indivdiuals or pairs working on it (i.e. three to six copies, depending on your group size, and whether you work individuals or pairs.)   
+
+You'll do this work in a branch or fork of the main repo, and then make a pull request.  
+
+HOWEVER, you'll decide as a team which of these is the best implementation of the Hello World, code, and 
+should serve as the basis for all future development of your app. That is, you'll be starting with this Hello World code, and building your app on top of it.
 
 <a href="/lab/proj01/first_issue.png" data-ajax="false">
 <img src="/lab/proj01/first_issue_30pct.png" alt="First Issue">
@@ -263,27 +245,26 @@ At least one of them should be similar to this one from the video, i.e. a Spring
 
 </div>
 
-### Step 7d: Have your mentor review your Kanban board and approve issues
+### Step 7d: Have your mentor review your Kanban board
 
-Ask your mentor to look over your Kanban board and make a comment on each of your user stories and issues.
+Ask your mentor to look over your Kanban board and make comments on your user stories and issues.
 
 If the issue is clear to them, and has their blessing, they should make a comment that includes the words:
 
 "Mentor Approved"
 
-If your mentor has questions/concerns, they'll make those in the comments.  You should iterate with them until all of the user stories and issues are "Mentor Approved".   
+If your mentor has questions/concerns, they'll make those in the comments.  You may want to iterate with them until all of the user stories and issues are "Mentor Approved".    However, this is not a requirement; just something you are encourged to work towards.
 
 <div class="grade" markdown="1">
 
 **Graded**: (40 pts) You earn these points when and if
-* you were personally present in lab on {{page.assigned |  date: "%a, %b %d"}} for the discussion of issues, and
-* your mentor has approved a set of issues for your team to work on, and you are assigned to at least one of them by the due date for this lab, ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
+* your team has a set of issues for your team to work on by the due date for this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 </div>
 
 ### Step 7e:  Make initial assignment of issues
 
-Each member of your team that is present tonight should be assigned to at least one issue.  You can assign multiple developers to a single issue; this is how you form pairs, trios, and mobs of 4 or more.
+Each member of your team should be assigned to at least one issue.  You can assign multiple developers to a single issue; this is how you form pairs, trios, and mobs of 4 or more.
 
 Members that are not present should take responsibility for ensuring that they
 * are either added to existing issues (after communication with the team members already on that issue), or 
@@ -291,7 +272,11 @@ Members that are not present should take responsibility for ensuring that they
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/when you, as an individual, are assigned to one or more issues by the deadline for this lab ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
+**Graded**: (30 pts) Your team  earn these points as when each team member is assigned to at least one issue by the due date of this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
+
+Points are pro-rated based on team size, i.e.
+* 6 person team: 5 pts/member
+* 5 person team, 6 pts/member
 
 (These points do not require being physically present in lab on ({{page.assigned |  date: "%a, %b %d "}}.)
 
@@ -300,13 +285,6 @@ Members that are not present should take responsibility for ensuring that they
 
 # What Comes Next?
 
-Next, your mentor will estimate issues and assign point values.  These will typically be:
-* 100 points for relatively straightforward issues where there is a clear road map to follow
-* 200 points for somewhat more involved issues where, say, the instructors and mentors have a good idea of how to proceed, and are sure they can guide you, but where you may have to learn some new skills.   These include working with OAuth, MongoDB databases, Firebase, basic screen scraping, reading JSON files, and some others.
-* 400 points for issues where some research may be involved (e.g. using an API (e.g. Google Places, Github, Facebook) for which we don't currently have a tutorial) interacting with a platform for which we have no guidelines (Hibernate for Postgres on Heroku), etc.
-
-Depending on who your mentor is, your issues may be estimated quickly, or it may take a few days.  They should all be estimated by next Thursday though.   At the very least, though, your team should leave tonight with at least two issues that they can get started on.
-
-<hr>
+You start working on your assigned issues!  
 
 Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on this project step.
