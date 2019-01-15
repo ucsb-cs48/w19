@@ -133,10 +133,12 @@ The `team/NORMS.md` file should contain all of the team norms.  It is ok to "sug
 
 This is a group grade.  Everyone on the team gets the same grade.  HOWEVER, some components of the grade required individual action.   It it suggested that you work together as a team to help and encourage one other to get each part of this done. 
 
-* (60 pts): 10 points for each team member that has successfully created their `team/name.md` file, and has done a
-   pull request, per the instructions above.  For teams with fewer than six members, the entire team earns 10 points
-   for the missing member, when all five team members have completed their work.
-   
+* (60 pts): 
+   Points are awarded for each team member that has successfully created their `team/name.md` file, and has done a
+   pull request, per the instructions above.   For each team member that does this, points are awarded:
+   * For teams with six members, 10 points per team member 
+   * For teams with five members, 12 points per team member 
+   * For teams with four members, 15 points per team member 
 * (30 pts): Completion of the `/team/norms.md` file.
 * (10 pts): Ten points for the team when each member of the team has contributed an idea on the Slack channel
 
