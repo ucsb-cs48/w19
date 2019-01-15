@@ -9,9 +9,6 @@ signup_app: https://ucsb-cs-github-linker.herokuapp.com/
 slack_url: https://ucsb-cs48-w19.slack.com
 ---
 
-STILL A WORK IN PROGRESS--DO NOT START THIS LAB YET.
-
-WE MIGHT CHANGE IT COMPLETELY BEFORE FRIDAY.
 
 If you find typos or problems with the lab instructions, please report
 them on Piazza
@@ -27,6 +24,7 @@ Seating charts are here:
 |3|gold-spotify-queue	|help-those-in-need|	ucsb-rooms|
 |4|sleep-schedule|	ucsb-rideshare|	when-2-meet-6pm|
 |5|stock-trading-4pm	| 5pm-when-2-meet	|  | 
+{:.table .table-sm .table-striped .table-bordered}
 
 
 ## Step 1: Create a CoE account if you don't have one already
