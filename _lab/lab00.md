@@ -20,9 +20,13 @@ them on Piazza
 
 Seating charts are here:
 
-* [4pm seating chart]({{ '/info/4pm_seating_chart/' | relative_url}}
-* [5pm seating chart]({{ '/info/5pm_seating_chart/' | relative_url}}
-* [6pm seating chart]({{ '/info/6pm_seating_chart/' | relative_url}}
+| Row | 4pm | 5pm | 6pm |
+|-----|-----|-----|-----|
+|1|blue-spotify-queue	|buy-my-clothes|	park-finder|
+|2|gold-scheduler	|countries-over-time	|stock-trading-6pm|
+|3|gold-spotify-queue	|help-those-in-need|	ucsb-rooms|
+|4|sleep-schedule|	ucsb-rideshare|	when-2-meet-6pm|
+|5|stock-trading-4pm	| 5pm-when-2-meet	|  | 
 
 
 ## Step 1: Create a CoE account if you don't have one already
