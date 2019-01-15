@@ -49,9 +49,9 @@ Please also consult [{{page.num}}\_mentors](/lab/{{page.num}}_mentors/) page for
 
 # Step 0: Preparation (ideally, completed before lab)
 
-As I asked you in my Piazza message, before you come to lab, if at all possible, please watch at least the first two of these videos.  
+In lecture, we watched the three videos below.  If you missed lecture, please
+watch these videos before coming to lab.
 
-Watch all three if you have time, but at least please watch the first two:
 
 * Part 1 (12:12) (Planning): <https://youtu.be/IsuIZaqnIuU>
 * Part 2 (10:15) (Using a Github Project Kanban Board): <https://youtu.be/8U0FezxxMGU>
@@ -64,29 +64,32 @@ If you want to reference the slides from the videos, they are here:
 # Creating Your Story Map
 
 
-## Step 1:  Gather in your team, and start a flip chart
+## Step 1:  Gather in your team
 
-See the new seating chart here to know where to find your team.   
+Here is the new for seating chart teams in lab.  Gather in your row first.
 
-* <https://ucsb-cs56-f18.github.io/info/lab_seating_chart_5pm/>
-* <https://ucsb-cs56-f18.github.io/info/lab_seating_chart_6pm/>
-* <https://ucsb-cs56-f18.github.io/info/lab_seating_chart_7pm/>
+| Row |Story Map Location 4pm | 5pm | 6pm |
+|-----|-------------------|-----|-----|
+|1|blue-spotify-queue	|buy-my-clothes|	park-finder|
+|2|gold-scheduler	|countries-over-time	|stock-trading-6pm|
+|3|gold-spotify-queue	|help-those-in-need|	ucsb-rooms|
+|4|sleep-schedule|	ucsb-rideshare|	when-2-meet-6pm|
+|5|stock-trading-4pm	| 5pm-when-2-meet	|  | 
+{:.table .table-sm .table-striped .table-bordered}
 
-We will set up white board charts for each of you, along with flip chart markers, in four corners of the room; find your corner.
+Once everyone has gathered, the TAs will instruct you where to go to work on your story map.
 
-* Locate and identify your new mentor as well
-* Also identify the TA (Jinjin or Santha) that will be working with your team.
-* Finally, introduce yourselves to each other.
+* During the 4pm section, we have access to the lab, plus Phelps 2510
+* During the 5pm and 6pm sections, we have access to the lab, plus Phelps 3526
+
+We will set up white board charts for each of you, along with flip chart markers at various locations
+
 
 ## Step 2:  Start documenting your team's work on a flip chart
 
-We will set up white board charts for each of you, along with flip chart markers, in four corners of the room.
+We will set up white board charts for each of you, along with flip chart markers.
 
-Please start by coming up with the **name for your project**.  It should be something that can be used as the name of a github repo, so let's keep the number of characters to fewer than 20, e.g. `"Gaucho GE Grabber"` is 18.   
-
-For example, if your project name is `Gaucho GE Grabber` your repo will end up being `ucsb-cs56-gaucho-ge-grabber`
-* Your project name can be mixed case and have spaces, e.g. `"Gaucho GE Grabber"` 
-* In repo names we are going with all lowercase, to keep things simple
+On your flipchart, or on the whiteboard:
 
 Write the name of your project, your mentor, and the names of the people on your team, (with a checkmark beside those that are present, and an X by those that are absent.)
 
@@ -106,53 +109,15 @@ Being present for today's lab, and making sure your name is on the flip chart wi
 
 <div class="grade" markdown="1">
 
-**Graded**: (20 pts) You earn these points if/only if:
+**Graded**: (30 pts) You earn these points if/only if:
 * you were personally present in lab on {{page.assigned | date: "%a, %b %d"}} and 
 * your team produces a flip chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
 
 </div>
 
-## Step 3: Create a communications channel
-
-Create a communication channel for your team.  Your team (including both the CS56 students, and your mentor) must come to a consensus on what this communication channel will be:
-
-This could be any of the following:
-* A Slack channel
-* A Gauchospace message board (your mentor, TA or instructor can create this for you)
-* A Facebook group chat
-* A Google Hangout
-* Wechat, Groupme, or something else
-
-Don't let this discussion go on for more than five minutes.   
-* As a fall back: if you are unable to reach consensus within 5 minutes of the , the "default" will be a private Gauchospace discussion board that is set up for your team (the students, the team mentor, and the instructor).    
-* There is nothing stopping you from moving, later, to a different system if you can reach consensus then.
-* But to be honest, there are better tools than a Gauchospace discussion board.  That is only provided as an option so that you don't spent the entire lab arguing about the merits of Slack vs. WeChat.
-
-Whatever method you choose to use, please document this by:
-* Communicating it with your mentor
-* Adding your mentor into the communications channel
-
-At this stage, you do not need to add the TA or instructor into your team's communications channel.  We might do that at a later stage, but at this stage, the plan is that if you need to communicate with the TA or instructor, you can do so through Piazza, or through your mentor (your mentor is on a separate "instructional staff" Slack channel that already exists.)
 
 
-<div class="grade" markdown="1">
-
-**Graded**: (10 pts): Document the choice of communications channel on your flip chart.
-
-You earn these points if/only if:
-* your team's flip chart identifies a communications channel in lab on {{page.assigned | date: "%a, %b %d"}} 
-* your mentor documents that they were able to reach you, personally, over that channel on or before the due date/time for this lab, i.e. 
-
-These points do not require being physically present in lab on {{page.assigned |  date: "%a, %b %d"}}; you can earn them even if you were not there, as long as you get added to the communications channel.  
-Getting yourself added is your responsiblity. Ways you can try:
-* You can reach out to your mentor via a private "Instructor Note" on Piazza, and they can put you in touch with fellow team members.
-* You can reach out to fellow team members via a public post on Piazza.
-
-</div>
-
-
-
-## Step 4: Discuss the User Journey
+## Step 3: Discuss the User Journey
 
 (This step is not graded, per se, but you can't meaningfully accomplish the later stages if you try to skip it.)
 
@@ -201,7 +166,7 @@ You'll know you have it, and you are ready for this step when:
 
 * The <b>value exchange</b> part is clearly identified: the goal/need/desire of the user, and how that gets acheived/met/fulfilled
 
-## Step 5: Move towards minimum viable product
+## Step 4: Move towards minimum viable product
 
 (This step is not graded, per se, but you can't meaningfully accomplish the later stages if you try to skip it.)
 
@@ -228,7 +193,7 @@ The big question to keep in mind is:
 Here "this" is the goal/need/desire.
 
 
-## Step 6: (Optional) Make a new chart in the form shown in part 1 of the video
+## Step 5: (Optional) Make a new chart in the form shown in part 1 of the video
 
 (This step is not graded, and you might be able to skip it.  Read through the information below and decide if completing this step would be helpful.  Once you've read through it, you can always decide to skip it for now, and come back if you find that you are stuck.)
 
@@ -238,11 +203,11 @@ At this stage, you need to make a decision.
 
 If making a new map would help, do that.  If you are ready to go staight to user stories and issues in Github, then go to the next step.
 
-## Step 7: (Required, Graded) Make a Kanban board for your project
+## Step 6: (Required, Graded) Make a Kanban board for your project
 
 Now, we are at the part that is most important to the future success of your project, and the part for which you will be graded (this is the other 80% of your grade for today's work.)
 
-### Step 7a: Locate the repo your mentor created for you.
+### Step 6a: Locate the repo your mentor created for you.
 
 Your mentor will have set up a github repo for your project under the organization [ucsb-cs56-webapps](https://github.com/ucsb-cs56-webapps]. 
 
@@ -250,7 +215,7 @@ Your mentor will have set up a github repo for your project under the organizati
 
 This repo is *read only* for you.  So you'll need to fork it, which is the next step.
 
-### Step 7b: Fork the repo into the [{{page.github_org}}](https://github.com/{{page.github_org}})  organization
+### Step 6b: Fork the repo into the [{{page.github_org}}](https://github.com/{{page.github_org}})  organization
 
 You will do your work in a *fork* of this repo.  Take these steps:
 1. One member of your team should fork the repo to the [{{page.github_org}}](https://github.com/{{page.github_org}}) organization.
@@ -267,7 +232,7 @@ You will do your work in a *fork* of this repo.  Take these steps:
 
 </div>
 
-### Step 7c: Make a Kanban board, as illustrated in the [video (Part 2)](https://www.youtube.com/watch?v=8U0FezxxMGU)
+### Step 6c: Make a Kanban board, as illustrated in the [video (Part 2)](https://www.youtube.com/watch?v=8U0FezxxMGU)
 
 Now, go into your forked repo, and go to Projects, and create a project.
 
