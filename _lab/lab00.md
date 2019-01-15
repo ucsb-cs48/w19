@@ -107,10 +107,38 @@ OR
 
 * Fork the repo to your own github id
 
-## Step 6: Inside your fork/branch of the repo, create a file called team/your_first_name.md
+## Step 6a: Inside your fork/branch of the repo, create a file called `team/your_first_name.md`
 
-Inside your repo, make a directory called team. Inside this, create a markdown file named your_first_name.md containing a brief description of you and of your ideas for the project. Each team member should do this individually. Note that this will be publicly displayed on the course site.
+In your fork or branch, NOT on the master branch of the main repo, please do the following:
+
+Make a directory called `team`. Inside this, create a markdown file named `your_first_name.md` containing a brief description of you and of your ideas for the project. 
+
+* NOTE: Not literally `team/your-first-name.md`, but something like `team/chris.md` or `team/taylor.md`
+
+Each team member should do this individually. Note that this will be publicly displayed on the course site.
    
-## Step 7: Create your NORMS.md file
+## Step 6b: Do a pull request from your fork/branch that has your file called `team/your_first_name.md`.
 
-This is a list of ideal team behaviors, e.g. everyone arrives to meetings on time or everyone starts things tasks early. You should write this as a team, and only one student needs to submit a pull request containing this file.
+Do a pull request from your fork or branch to the master branch of the repo.  Each team member should have done at least
+one pull request from their github id.
+   
+## Step 7: Create your team/NORMS.md file
+
+This is a list of ideal team behaviors, e.g. everyone arrives to meetings on time or everyone starts things tasks early. You should write this as a team.  Only one student needs to submit a pull request containing this file, however it is ok
+if there are multiple pull requests for this file.   You should be careful, however to avoid merge conflicts!
+
+The `team/NORMS.md` file should contain all of the team norms.  It is ok to "suggest" team norms in your individual team/first-name.md files, but the team, ultimately, should consolidate all of these into one `team/NORMS.md` file.
+
+# GRADING
+
+This is a group grade.  Everyone on the team gets the same grade.  HOWEVER, some components of the grade required individual action.   It it suggested that you work together as a team to help and encourage one other to get each part of this done. 
+
+* (60 pts): 10 points for each team member that has successfully created their `team/name.md` file, and has done a
+   pull request, per the instructions above.  For teams with fewer than six members, the entire team earns 10 points
+   for the missing member, when all five team members have completed their work.
+   
+* (30 pts): Completion of the `/team/norms.md` file.
+* (10 pts): Ten points for the team when each member of the team has contributed an idea on the Slack channel
+
+
+
