@@ -50,7 +50,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Please also consult [{{page.num}}\_mentors](/lab/{{page.num}}_mentors/) page for instructions on what mentors and TAs should do to prepare for this lab,  support students as it unfolds, and provide feedback and grades afterwards.)
 
-# Step 0: Preparation (ideally, completed before lab)
+## Step 0: Preparation (ideally, completed before lab)
 
 In lecture, we watched the three videos below.  If you missed lecture, please
 watch these videos before coming to lab.
@@ -115,7 +115,7 @@ in order for the group to get full credit for the lab.
 
 <div class="grade" markdown="1">
 
-**Graded**: (25 pts) You earn these points if/only if:
+**Graded**: (20 pts) You earn these points if/only if:
 * your group produced a chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
 * you took accurate attendance, accounting for all members of your group
    (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
@@ -261,13 +261,13 @@ should serve as the basis for all future development of your app. That is, you'l
 
 <div class="grade" markdown="1">
 
-**Graded**: (5 pts) You earn these points if/when you:
+**Graded**: (20 pts) You earn these points if/when you:
 * met the criteria for the previous item (present in lab, team forked repo, you are a collaborator), AND
 * your team has created a Kanban board by the due date of the lab, ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
 
 </div>
 
-### Step 7d: Have your mentor review your Kanban board
+## Step 7: Have your mentor review your Kanban board
 
 Ask your mentor to look over your Kanban board and make comments on your user stories and issues.
 
@@ -279,12 +279,12 @@ If your mentor has questions/concerns, they'll make those in the comments.  You 
 
 <div class="grade" markdown="1">
 
-**Graded**: (40 pts) You earn these points when and if
+**Graded**: (30 pts) You earn these points when and if
 * your team has a set of issues for your team to work on by the due date for this lab, i.e. ({{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 </div>
 
-### Step 7e:  Make initial assignment of issues
+## Step 8:  Make initial assignment of issues
 
 Each member of your team should be assigned to at least one issue.  You can assign multiple developers to a single issue; this is how you form pairs, trios, and mobs of 4 or more.
 
@@ -309,4 +309,4 @@ Points are pro-rated based on team size, i.e.
 
 You start working on your assigned issues!  
 
-Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on this project step.
+Credits: Many thanks to [John Cutler](https://twitter.com/johncutlefish?lang=en) for his assistance in consulting on this assignment.
