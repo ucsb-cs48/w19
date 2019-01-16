@@ -22,17 +22,16 @@ github_org: "ucsb-cs48-w19"
 </div>
 
 
-TODO: ADD INSTRUCTIONS FOR UPLOADING PHOTOS OF FLIP CHARTS...
-
 There is nothing to "hand in", or "submit" in the traditional sense.  All of the work is done online in your
 project repo, on the Github web interface.
 
 Your work will be checked by the instructional staff directly on Github.
 
-
 You may also end up doing some work on a whiteboard and/or flip chart.  You should take photos of that, 
-and upload them to your repo, under the `/team` directory, inside a directory called `/team/story_map`.
+and upload them to your repo, under the `/team` directory, inside a directory called `/team/lab01/` as instructed below.
 
+You are encouraged to do this on a branch or fork, and do a pull request,
+as with all changes to your project's repo.
 
 
 <style>
@@ -82,12 +81,12 @@ Once everyone has gathered, the TAs will instruct you where to go to work on you
 * During the 4pm section, we have access to the lab, plus Phelps 2510
 * During the 5pm and 6pm sections, we have access to the lab, plus Phelps 3526
 
-We will set up white board charts for each of you, along with flip chart markers at various locations
+We will set up white board or flip board chartsfor each of you, along with markers at various locations.  You can use paper or a white board, as you see fit.
+
+Be sure, though, to use only whiteboard safe markers on the whiteboards!
 
 
-## Step 2:  Start documenting your team's work on a flip chart
-
-We will set up white board charts for each of you, along with flip chart markers.
+## Step 2:  Start documenting your team's work
 
 On your flipchart, or on the whiteboard:
 
@@ -105,14 +104,21 @@ Team: Phill Conrad ✓, Jinjin Shao ✓, Santha Ramamoorthy ✓, Henry Yang ✗,
 
 </div>
 
-Being present for today's lab, and making sure your name is on the flip chart with a ✓ is 20% of your grade for today's work.
+Taking attendance for today's lab, and making sure your name is on the flip chart with a ✓ or an ✗  is a portion of your group's grade for today's work.
+
+**NOTE**: Having a group member (or two) absent will not cause your group's grade to be reduced for this lab.  However you are require to *record* attendance
+in order for the group to get full credit for the lab.
 
 <div class="grade" markdown="1">
 
-**Graded**: (30 pts) You earn these points if/only if:
-* you were personally present in lab on {{page.assigned | date: "%a, %b %d"}} and 
-* your team produces a flip chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
-
+**Graded**: (25 pts) You earn these points if/only if:
+* your group produced a chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
+* you took accurate attendance, accounting for all members of your group
+   (See the [teams page]({{'/info/teams_pages/' | relative_url }}) for a list of group members)
+* you took a picture of this and uploaded it to the /team directory of your
+   repo, under a subdirectory called `/team/lab01/`, with the name
+   `/team/lab01/chart01.png` or `/team/lab01/chart01.jpg`.  Please use
+   the requested name to make your chart easier to find.
 </div>
 
 
@@ -138,7 +144,7 @@ Discuss this with your group, and on your paper, write down whatever comes to mi
 IF IT IS HELPFUL, you *could* use the form shown in the video, and illustrated in class, where you have a series of stories that form column headings across the top of the page, and then you have descriptions of specific user interactions as sticky notes in the columns, as illustrated here (click for larger image):
 
 <a href="/lab/proj01/story_map_example.png" data-ajax="false">
-<img src="/lab/proj01/story_map_example_30pct.png" alt="Story Map Example">
+<img src="{{ '/lab/lab01/story_map_example_30pct.png' | relative_url }}" alt="Story Map Example">
 </a>
 **(Click the image above for a more legible version)**
 
@@ -232,7 +238,7 @@ HOWEVER, you'll decide as a team which of these is the best implementation of th
 should serve as the basis for all future development of your app. That is, you'll be starting with this Hello World code, and building your app on top of it.
 
 <a href="/lab/proj01/first_issue.png" data-ajax="false">
-<img src="/lab/proj01/first_issue_30pct.png" alt="First Issue">
+<img src="{{ '/lab/lab01/first_issue_30pct.png' | relative_url }}" alt="First Issue">
 </a>
 
 **(Click the image above for a more legible version)**
