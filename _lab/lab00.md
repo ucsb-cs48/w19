@@ -143,6 +143,10 @@ This is a group grade.  Everyone on the team gets the same grade.  HOWEVER, some
    * For teams with four members, 15 points per team member 
 * (30 pts): Completion of the `/team/norms.md` file.
 * (10 pts): Ten points for the team when each member of the team has contributed an idea on the Slack channel
+   * This "idea" may be an idea about the project, about team norms, or really about anything that is course related.
+   * The main point of this item is that we want to make sure that each team member 
+      actually knows how to say something on the slack channel.  The content is sort of important, but mainly it's 
+      a check on the mechanics.
 
 
 
