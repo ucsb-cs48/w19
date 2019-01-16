@@ -122,7 +122,6 @@ in order for the group to get full credit for the lab.
 </div>
 
 
-
 ## Step 3: Discuss the User Journey
 
 (This step is not graded, per se, but you can't meaningfully accomplish the later stages if you try to skip it.)
@@ -143,7 +142,7 @@ Discuss this with your group, and on your paper, write down whatever comes to mi
 
 IF IT IS HELPFUL, you *could* use the form shown in the video, and illustrated in class, where you have a series of stories that form column headings across the top of the page, and then you have descriptions of specific user interactions as sticky notes in the columns, as illustrated here (click for larger image):
 
-<a href="/lab/proj01/story_map_example.png" data-ajax="false">
+<a href="{{ '/lab/lab01/story_map_example.png' | relative_url }}" data-ajax="false">
 <img src="{{ '/lab/lab01/story_map_example_30pct.png' | relative_url }}" alt="Story Map Example">
 </a>
 **(Click the image above for a more legible version)**
@@ -209,6 +208,19 @@ At this stage, you need to make a decision.
 
 If making a new map would help, do that.  If you are ready to go staight to user stories and issues in Github, then go to the next step.
 
+<div class="grade" markdown="1">
+
+**OPTIONAL but STRONGLY ENCOURAGED**: If you made additional charts
+on the whiteboard or a paper flip chart, take pictures of them,
+and upload them to your repo under the `./team/lab01/` directory.
+
+You already have a (required) `./team/lab01/chart01.jpg` or `./team/lab01/chart01.png`, for example, so you are encouraged to continue that naming
+conventions with `chart02.jpg`, `chart03.jpg`, etc.
+
+</div>
+
+
+
 ## Step 6: (Required, Graded) Make a Kanban board for your project
 
 Now, we are at the part that is most important to the future success of your project, and the part for which you will be graded (this is the other 80% of your grade for today's work.)
@@ -237,7 +249,7 @@ You'll do this work in a branch or fork of the main repo, and then make a pull r
 HOWEVER, you'll decide as a team which of these is the best implementation of the Hello World, code, and 
 should serve as the basis for all future development of your app. That is, you'll be starting with this Hello World code, and building your app on top of it.
 
-<a href="/lab/proj01/first_issue.png" data-ajax="false">
+<a href="{{ '/lab/lab01/first_issue.png' | relative_url }}" data-ajax="false">
 <img src="{{ '/lab/lab01/first_issue_30pct.png' | relative_url }}" alt="First Issue">
 </a>
 
