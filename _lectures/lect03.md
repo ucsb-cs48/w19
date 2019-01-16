@@ -4,9 +4,8 @@ desc: "Retrospective"
 lecture_date: 2019-01-16
 ---
 
-# Check in
 
-## [lab00 instructions]({{'/lab/lab00/' | relative_url }})
+# [lab00 instructions]({{'/lab/lab00/' | relative_url }})
 
 * Make sure that you have a `/team/NORMS.md` file, with exactly that name.
    * It really helps us a lot if you follow the naming conventions strictly, so `NORMS.md`, nor `Norms.md` or `norms.md`
@@ -26,6 +25,13 @@ lecture_date: 2019-01-16
    * When it's done, do a pull request.
    * When they are all done, the team will decide which of the hello world's it want to accept as the basis of starting the project.
    * The deadline for this is TBA, but probably a week from Friday.
+
+# [lab01 instructions]({{'/lab/lab01/' | relative_url }})
+
+Tomorrow, you'll be creating your Kanban board.  Let's go ahead and create it now.
+
+
+
 
 # Topic: User Story Mapping, Continued
 
