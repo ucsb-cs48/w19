@@ -28,7 +28,11 @@ project repo, on the Github web interface.
 Your work will be checked by the instructional staff directly on Github.
 
 You may also end up doing some work on a whiteboard and/or flip chart.  You should take photos of that, 
-and upload them to your repo, under the `/team` directory, inside a directory called `/team/lab01/` as instructed below.
+and upload them to your repo, under the `./team` directory, inside a directory called `./team/lab01/` as instructed below.
+
+Note that throughout these instructions `./team` refers to the directory
+`team` at the root of your project repository; the same directory where
+you put your `./team/NORMS.md` file in a previous lab.
 
 You are encouraged to do this on a branch or fork, and do a pull request,
 as with all changes to your project's repo.
@@ -114,10 +118,10 @@ in order for the group to get full credit for the lab.
 **Graded**: (25 pts) You earn these points if/only if:
 * your group produced a chart in the requested format during lab on {{page.assigned |  date: "%a, %b %d"}}.
 * you took accurate attendance, accounting for all members of your group
-   (See the [teams page]({{'/info/teams_pages/' | relative_url }}) for a list of group members)
+   (See the [teams page]({{'/teams_page/' | relative_url }}) for a list of group members)
 * you took a picture of this and uploaded it to the /team directory of your
-   repo, under a subdirectory called `/team/lab01/`, with the name
-   `/team/lab01/chart01.png` or `/team/lab01/chart01.jpg`.  Please use
+   repo, under a subdirectory called `./team/lab01/`, with the name
+   `./team/lab01/chart01.png` or `./team/lab01/chart01.jpg`.  Please use
    the requested name to make your chart easier to find.
 </div>
 
