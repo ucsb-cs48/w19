@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab01
-ready: false
+ready: true
 desc: "Starting your project: Story Map"
 assigned: 2019-01-17 16:00
 due: 2018-01-24 19:00
