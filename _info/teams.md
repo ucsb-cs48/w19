@@ -6,7 +6,7 @@ permalink: "/teams_page/"
 
 
 <style> 
-  iframe.teams { width: 100%; height: 1000px; overflow: scroll; } 
+  iframe.teams { width: 100%; height: 800px; overflow: scroll; } 
   iframe.roster { width: 800px; height: 1800px; overflow: scroll; } 
 </style>
 
