@@ -4,7 +4,7 @@ num: lab02
 ready: false
 desc: "First Project Increment: Hello World, and launch"
 assigned: 2019-01-24 16:00
-due: 2018-01-31 19:00
+due: 2019-01-31 19:00
 github_org: "ucsb-cs48-w19"
 ---
 
