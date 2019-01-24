@@ -35,8 +35,9 @@ The following deliverables are due for [lab01]({{'/lab/lab01/' | relative_url }}
 
 Also look at the green "Graded" boxes in the instructions for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
+The following list is offered as additional clarificaiton of the graded items for [lab01]({{'/lab/lab01/' | relative_url }}) 
+
 * There should be a Kanban board (a Github Project associated with your repo) for your team
-   (Check that the 
 * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
    your app; one that clearly delivers value to the user.  
 * There should be a complete set of issues for each of those user stories; a set of issue that are specific TODO's that a individual, pair, or 
@@ -44,7 +45,6 @@ Also look at the green "Graded" boxes in the instructions for [lab01]({{'/lab/la
    what it means to be "done" with that issue.
 * In addition, there should be set of issues for creating "Hello World" apps;  There should be one per each team member or pair of team
    members, and each team member or pair should be *assigned* to that issue on the Kanban board.
-
 
 # Deliverables for lab02
 
