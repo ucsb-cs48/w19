@@ -42,7 +42,7 @@ The following list is offered as additional clarificaiton of the graded items fo
 
 * There should be a Kanban board (a Github Project associated with your repo) for your team
 * That Kanban board should have a complete set of user stories on it, that, when complete, results in a minium viable product for
-   your app; one that clearly delivers value to the user.  
+   your app; one that clearly delivers value to the user.   User stories should be plain old "cards" on the Kanban board.
 * There should be a complete set of issues for each of those user stories; a set of issue that are specific TODO's that a individual, pair, or 
    sub-group of your project team can pick up and start coding from.  Each of those issues should have a clear set of criteria for
    what it means to be "done" with that issue.
@@ -174,7 +174,7 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
    * settle on a first user story or set of user stories for your minimum viable product.  
    * have created issues to support that story or stories
    * have populated the Kanban board with those
-   * have dragged the user stories and issues yourt team is are working on (immediately after your hello world issues) into the
+   * have dragged the user stories and issues your team is are working on (immediately after your hello world issues) into the
       In-Progress column of the Kanban board.
    * Have assigned at least one issue to each team member (as an individual or as part of a pair or group), and have dragged those issues into the in-progress column.
 
@@ -185,12 +185,31 @@ NOTE: If you cannot schedule with your own mentor, you may coordinate on slack b
 
 * (20 pts) There should be at least one user story in the In-Progress column for your team.  If there is more than one, it is because the user stories for the first one are insufficient to keep the team making progress, and it was necessary to bring over a second one to have enough issues to work on.
 * (20 pts) There should be at least one issue under each user story that supports implementing that user story.
-* (30 pts) Each user on the team should be assigned to at least one user story in the in-progress column.
+* (30 pts) Each user on the team should be assigned to at least one issue in the in-progress column.   
    For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member.  
 
 This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member be making a contribution to the project.  The most important learning goal of the course is to learn to work as a team, supporting one another.
 
 </div>  
+
+# About assigning issue to team members
+
+It is possible to assign multiple users to an issue.
+
+You may work on issues either:
+* as an individual
+* as a pair
+* as a "mob" (like pair programming, but with more than one person)
+
+However, if you are working as a pair or a mob, you should *really* be
+working as a pair or a mob.  That is, you should plan times to get
+together, ideally in person, but at least via screen sharing, and work
+together on the code.
+
+What we don't encourage is for Alice and Bob to be assigned to the
+issue, and then Alice and Bob take turns "solo programming" on the
+issue.  That's a way of working but not the one we are encouraging you
+to try.
 
 # About limiting work in progress
 
