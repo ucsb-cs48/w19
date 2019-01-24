@@ -227,7 +227,7 @@ conventions with `chart02.jpg`, `chart03.jpg`, etc.
 
 ## Step 6: (Required, Graded) Make a Kanban board for your project
 
-Now, we are at the part that is most important to the future success of your project, and the part for which you will be graded (this is the other 80% of your grade for today's work.)
+Now, we are at the part that is most important to the future success of your project, and the part for which you will be graded 
 
 Your mentor will have set up a github repo for your project under the organization [{{page.github_org}}](https://github.com/{{page.github_org}}]. 
 
