@@ -8,6 +8,11 @@ due: 2018-01-31 19:00
 github_org: "ucsb-cs48-w19"
 ---
 
+
+<style>
+div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
+</style>
+
 <div style="float:right; width: auto;">
 
 <table style="margin-top:1em;">
@@ -46,6 +51,10 @@ That increment includes all of the following:
 * Each team member has participated either as a solo programmer, or as part of a pair, in producing a "Hello World" type app for the
    framework you are using for your project.   You will get two grades for this: one as part of your team grade, and another as
    an individual grade, as explained below.
+   
+<div class="grade" markdown="1">
+  
+</div>  
    
 # What *each* "Hello World" branch/pull-request must contain for full credit.
    
