@@ -8,6 +8,9 @@ due: 2019-01-31 19:00
 github_org: "ucsb-cs48-w19"
 ---
 
+<div style="display:none">
+https://ucsb-cs48.github.io/w19/lab/lab02/
+</div>
 
 <style>
 div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
