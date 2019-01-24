@@ -53,7 +53,16 @@ That increment includes all of the following:
    an individual grade, as explained below.
    
 <div class="grade" markdown="1">
-  
+
+**Graded (lab02-I) **: (lab02-I) is your individual grade for lab02.  Your mentor will do a code review against a rubric of items including all of the instructions in this lab, as well as conventional notions of good coding practice that you should have learned in CS16/24/32.   Your TA or instructor will then do an independent assessment, informed by the mentors code review, and assign a grade. If you are unsure about your code follows good practice, you are encouraged to complete it early and meet with your mentor, your TA, or another mentor/TA during [open lab hours]({{ '/info/open_lab_hours/' | relative_url }}) to go over it in advance.
+The components of this grade are listed below.
+
+**Graded (lab02-T)**: (30 pts) (lab02-T) is your Team grade for lab02.  As part of this grade, each teem member should have contributed to a hello world assignment as an individual or as part of a pair by the due date/time of this lab, i.e.  ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
+
+For teams of 6, this part of your grade is 5 points per team member.  For teams of 5, it is 6 points per team member.  Those 5/6 points are all or nothing; if you've made a reasonable attempt, even if you didn't earn 100% on lab02, your team will earn 5 or 6 points for your contribution towards the whole.
+
+This component of your team grade is designed to encourage each team member to reach out to all the other members of the team, and be aware of the progress they are making towards the goal of having every team member complete a hello world assignment as an individual or as part of a pair.   The most important learning goal of the course is to learn to work as a team, supporting one another.
+
 </div>  
    
 # What *each* "Hello World" branch/pull-request must contain for full credit.
@@ -61,9 +70,38 @@ That increment includes all of the following:
 * Each individual or pair should have built a hello world app suitable for your framework.
 * You should have instructions in your read me on what software must be installed in order to deploy your app. 
    A TA, Mentor, or another class member should be able to follow these instructions and successfully deploy your app.
-* 
+* The app does not have to have any particular functionality other than what is normal for the framework.  It should display
+   either the text "Hello, World", or something similar such as "Welcome to the foobar app" (where "foobar" is the name of your
+   team's app.)
+* By functionality normal to the framework, I mean for example:
+   * If it a "game", there should be a "start game" button, and then after a moment, it displays "game over" with a "play again" button.
+   * If it is a mobile app, it should have the most basic UI feature that are expected for the app to be "well-behaved" on the iOS or Android platform.  
+   * If it is a webapp, it should be formatted as an HTML page, not just a plain text page with the words "Hello World". (Full navigation can come later, though it's nice if you can include it at this stage.)
+* In no case should there be a "crash" if/when users interact with the app in a reasonable fashion.  
 
-# *Each* webapp "Hello, World" branch/pull-request should be deployed
+# Hello World app in a branch, and a pull request is performed
+
+<div class="grade" markdown="1">
+
+**Graded**: (lab02-I) (25 pts) You earn these points if/when you:
+* Have a branch and a pull request for your hello world app (the one that you did as an individual or as part of a pair)
+
+</div>
+
+# Hello World app Deployed or Demoed
+
+As explained below, each 
+
+<div class="grade" markdown="1">
+
+**Graded**: (lab02-I) (25 pts) You earn these points if/when by the due date for this lab,  (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}}) you have, as explained below, either:
+
+* deployed your app live on the public web (if it is a webapp) through Heroku, or another provider, or
+* demoed your app to your mentor during open lab hours, or another mentor if that doesn't work for your schedule.
+
+</div>
+
+## *Each* webapp "Hello, World" branch/pull-request should be deployed
 
 If your app is being deployed as a webapp: you should have have DEPLOYED it so that it runs on a service such as Heroku, 
 Google App Engine, Amazon Web Services, etc. at a stable URL.    The easist platform on which to do this
@@ -72,23 +110,14 @@ and mentors and other students can point you to the resources to get started wit
 
 Put the URL of your running app in the README in your branch.
 
-# *Each* non-webapp "Hello, World" branch/pull-request should be demoed
+## *Each* non-webapp "Hello, World" branch/pull-request should be demoed
 
 If you are NOT doing a webapp, you must set up a time with your mentor, or your TA, to demo your app to them.  You are strongly encouraged to do 
 this BEFORE the lab next Thursday.   The mentors and TAs hold 
 [open lab hours]({{'/info/open_lab_hours/' | relative_url }}) during which you can schedule this demo.    The last opportunity to do this demo
-is during lab on the due date for this assignment, but it may not be possible to fit all of those in.   Please coordinate with your team to
+is during lab on the due date for this assignment, but it may not be possible to fit all of those in, and in that case, regrettably, you may lose the opportunity to do so (and earn the points.)  Please coordinate with your team to
 get as many of these demos done *before* lab on the due date of this assignment.
 
 If working in a pair, *each* member of the pair should demo the app, to show that they understand how to run it.
 
-
-
-<div class="grade" markdown="1">
-
-**Graded**: (20 pts) You earn these points if/when you:
-* met the criteria for the previous item (present in lab, team forked repo, you are a collaborator), AND
-* your team has created a Kanban board by the due date of the lab, ({{page.due |  date: "%a, %b %d at %l:%M%p"}})
-
-</div>
-
+NOTE: If you cannot schedule with your own mentor, you may coordinate on slack between your mentor and another mentor/TA holding open lab hours that better fit your schedule.  Please use the slack to coordinate this.  
