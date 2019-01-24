@@ -29,9 +29,12 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
+
+
 # Checking over your deliverables for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
 The following deliverables are due for [lab01]({{'/lab/lab01/' | relative_url }}) .   Check over them and make sure these are complete.
+Even if, technically, the deadline for those has passed, the mentors/TAs will not start the official grading of those until after this lab ({{page.num}}) is complete this evening.  So this is your last opportunity.
 
 Also look at the green "Graded" boxes in the instructions for [lab01]({{'/lab/lab01/' | relative_url }}) 
 
@@ -45,6 +48,21 @@ The following list is offered as additional clarificaiton of the graded items fo
    what it means to be "done" with that issue.
 * In addition, there should be set of issues for creating "Hello World" apps;  There should be one per each team member or pair of team
    members, and each team member or pair should be *assigned* to that issue on the Kanban board.
+
+# Conduct a standup meeting (5-10 minutes)
+
+You are encouraged to conduct a standup meeting as a team.
+
+Find a space in which to gather, standing in a circle, and answer three questions:
+* What have you done since our last team checkin
+* What are you working on now?
+* Are there any barriers or blocks to your progress?
+
+Direct your comments *to the entire team* (not to your mentor/TA/instructor, or a perceived peer team leader)
+
+Suggestion: Set a timer for six minutes.  
+* If six minutes goes by and you are aren't done, you are probably letting each member speak more than is ideal; try to focus just on answering the three questions.  
+* If there are issues that need to be discussed outside of standup, you are encouraged to NOTE THEM, and come back to them as a team AFTER standup.
 
 # Deliverables for lab02
 
