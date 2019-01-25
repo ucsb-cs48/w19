@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab02
-ready: false
+ready: true
 desc: "First Project Increment: Hello World, and launch"
 assigned: 2019-01-24 16:00
 due: 2019-01-31 19:00
