@@ -2,12 +2,7 @@
 name: "Nikhil"
 role: "Mentor"
 bio: >
-    Fill in bio here.  Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Quisque sed rutrum arcu. Sed scelerisque accumsan
-    nulla, eu placerat ante c ondimentum a. Nulla et accumsan
-    ipsum. Sed finibus turpis ut hendrerit ultricies. Etiam dolor ex,
-    consectetur sit amet velit vitae, eleifend tristique leo. Sed vel
-    molestie velit.
+    Nikhil is a 4th year UCSB Computer Science student. He is interested in topics such as machine learning and web development. In his free time, Nikhil enjoys video editing and exercising. 
 
 img: nikhil.jpg
 img100w: nikhil_100w.jpg
