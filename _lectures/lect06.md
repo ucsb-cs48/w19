@@ -48,3 +48,6 @@ Some clarifications:
 
 # Going over lab03, lab04, lab05, etc.
 
+* <https://ucsb-cs48.github.io/w19/lab/lab03/>
+* <https://ucsb-cs48.github.io/w19/lab/lab04/>
+* <https://ucsb-cs48.github.io/w19/lab/lab05/>
