@@ -172,14 +172,7 @@ or by searching the Internet.
 
 # Grading guidelines
 
-The project counts 75 percent of each student's course grade.
-
-The group grade is the accumulation of the following components:
-
-* Progress reports (weekly, with both written and oral components)
-* Story Mapping and Sprint Planning
-* Code Reviews
-* System Demonstrations
+The group grade is based on your final system demo and final code review.
 
 All project team members in good standing will receive the same grade
 for this portion of the project.   To remain in good standing, you should have
