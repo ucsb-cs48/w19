@@ -9,7 +9,7 @@ github_org: "ucsb-cs48-w19"
 ---
 
 <div style="display:none">
-https://ucsb-cs48.github.io/w19/lab/lab03/
+https://ucsb-cs48.github.io/w19/lab/lab04/
 </div>
 
 <style>
