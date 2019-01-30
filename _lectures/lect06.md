@@ -7,6 +7,13 @@ ready: true
 
 # Review of the big picture
 
+| platform | count |
+|----------|---|
+| C# Unity | 2 |
+| ioS Native | 2 | 
+| node.js | 2 |
+| Flask | 8 |
+
 
 # The Kanban board
 
