@@ -136,6 +136,10 @@ well-structured, well-organized and well-tested JavaScript.
 
 * Should conform to the [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
+## JavaScript Specific
+
+* Should conform to the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 # Originality Requirements
 
 * The code for which you receive credit must be *original*&mdash;written by **your group** during
