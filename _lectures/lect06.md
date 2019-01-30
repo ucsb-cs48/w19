@@ -1,5 +1,5 @@
 ---
-num: lect05
+num: lect06
 desc: "Upcoming: Sprint Planning, Retro, MVP"
 lecture_date: 2019-01-30
 ready: true
@@ -16,6 +16,9 @@ Some clarifications:
 * The "Gems" section should really be "dependencies".
    * What programming languages and frameworks are you using?
    * "Gems" is a Ruby specific way of saying this.
+   * Remove "Gems" if you aren't using Ruby, and replace it with Dependencies
+
+* Make things like [node.js](https://nodejs.org/en/), [React](https://reactjs.org/), etc. hyperlinks to those frameworks, not just words.
 
 * The README.md is a developer facing document, not a user facing document.
 
