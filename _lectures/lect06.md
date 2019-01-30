@@ -5,6 +5,21 @@ lecture_date: 2019-01-30
 ready: true
 ---
 
+# Review of the big picture
+
+
+# The Kanban board
+
+* What does it mean to be "done"
+* That's an unresolved question
+* We are going to explore that in much more detail
+* The three columns we started with are going to turn out to be, perhaps not quite enough
+* Stay tuned:
+   * Acceptance tests/criteria
+   * Code review
+   * Continuous integration
+   * "Definition of Done"
+
 # Review of last time
 
 Guest Presenter: Kate Kharitonova
