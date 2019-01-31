@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Deliver Hello World, Plan for Retro, MVP"
 assigned: 2019-01-31 16:00
 due: 2019-02-07 19:00
