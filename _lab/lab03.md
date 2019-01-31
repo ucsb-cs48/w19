@@ -130,9 +130,6 @@ Here's what we'll be looking for and grading:
 
 <div class="grade" markdown="1">
 
-{{page.num}}
-
-
 **Graded ({{page.num}}-I)**: (20 pts) towards the individual part of your grade for {{page.num}}.   We will be looking to see that you (as an individual)
 are assigned to **at least one issue** that is part of the MVP and that this issue 
 is either in-progress or done by {{page.due |  date: "%a, %b %d at %l:%M%p"}}).
@@ -146,6 +143,8 @@ is either in-progress or done by {{page.due |  date: "%a, %b %d at %l:%M%p"}}).
 
 </div>
 
+
+<div class="grade" markdown="1">
 
 **Graded ({{page.num}}-T)**: (30 pts) towards the team part of your grade for {{page.num}}.  
 
@@ -162,6 +161,7 @@ The most important learning goal of the course is to learn to work as a team, su
 
 </div>  
 
+<div class="grade" markdown="1">
 
 **Graded ({{page.num}}-T)**: (30 pts) towards the team part of your grade for {{page.num}}.  
 
@@ -173,14 +173,5 @@ This part of the team grade is for the mechanics of:
 </div>  
 
 
-<div class="grade" markdown="1">
 
-**Graded**: (lab02-I) (20 pts) You earn these points if/when you, by the due date of this assignment (i.e. {{page.due |  date: "%a, %b %d at %l:%M%p"}}):
-
-* The issue/issues to which you are assigned have comments on them with a link to the branch or fork where you are working on the issue.
-* There is evidence of some commit activity showing progress towards the goal
-* There is a discussion in the comments on the issue indicating the progress you are making.  This may include questions, or some boxes on a check
-   off list being checked, etc.
-
-</div>
 
