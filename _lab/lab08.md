@@ -3,8 +3,8 @@ layout: lab
 num: lab08
 ready: false
 desc: "TBD"
-assigned: 2019-02-07 16:00
-due: 2019-02-21 19:00
+assigned: 2019-02-21 16:00
+due: 2019-03-07 19:00
 github_org: "ucsb-cs48-w19"
 ---
 
