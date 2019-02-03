@@ -3,8 +3,8 @@ layout: lab
 num: lab04
 ready: false
 desc: "First Team Retrospective"
-assigned: 2019-02-04 16:00
-due: 2019-02-04 19:00
+assigned: 2019-02-07 16:00
+due: 2019-02-07 19:00
 github_org: "ucsb-cs48-w19"
 ---
 
