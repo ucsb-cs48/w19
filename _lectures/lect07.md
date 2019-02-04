@@ -5,6 +5,18 @@ lecture_date: 2019-02-04
 ready: true
 ---
 
+# Unit Testing, Integration Testing, Test Coverage
+
+* Demo of Flask Tutorials Test Coverage report
+    * <http://flask.pocoo.org/docs/1.0/tutorial/tests/>
+* Test coverage for node.js: <https://mochajs.org/> Plus <https://istanbul.js.org/>
+* Test coverage for Unity/C#: 
+   * <https://newhorizongame.wordpress.com/>
+   * <http://gamasutra.com/blogs/LiorTal/20140520/218123/Introduction_to_Unity_Test_Tools.php>
+* Testing in React/Expo
+   * <https://blog.expo.io/testing-expo-apps-with-detox-and-react-native-testing-library-7fbdbb82ac87>
+
+
 # Web App Folks
 
 Be careful about your database choice.
@@ -23,13 +35,3 @@ If you are planning to deploy to Heroku:
 Of course, you are also free to deploy on another platform.  
 * In general, there's no free lunch; you have to choose which battle to fight.
 
-# Unit Testing, Integration Testing, Test Coverage
-
-Demo of Flask Tutorials Test Coverage report
-
-* Test coverage for node.js: <https://mochajs.org/> Plus <https://istanbul.js.org/>
-* Test coverage for Unity/C#: 
-   * <https://newhorizongame.wordpress.com/>
-   * <http://gamasutra.com/blogs/LiorTal/20140520/218123/Introduction_to_Unity_Test_Tools.php>
-* Testing in React/Expo
-   * <https://blog.expo.io/testing-expo-apps-with-detox-and-react-native-testing-library-7fbdbb82ac87>
