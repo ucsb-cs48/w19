@@ -5,6 +5,11 @@ lecture_date: 2019-02-04
 ready: true
 ---
 
+# Clarification on the MVP column, tags, etc.
+
+* Q: If we are working on an issue from MVP column, should we drag into in-progress?
+* A: Yes.  We'll know its part of MVP because you tagged it with MVP
+
 # Unit Testing, Integration Testing, Test Coverage
 
 * Demo of Flask Tutorials Test Coverage report
