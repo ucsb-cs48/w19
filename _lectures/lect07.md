@@ -23,3 +23,6 @@ If you are planning to deploy to Heroku:
 Of course, you are also free to deploy on another platform.  
 * In general, there's no free lunch; you have to choose which battle to fight.
 
+# Unit Testing, Integration Testing, Test Coverage
+
+Demo of Flask Tutorials Test Coverage report
