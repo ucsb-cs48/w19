@@ -24,10 +24,10 @@ Due {{page.mentor_due}}
 
 The evaluation of lab00 is entirely at the team level, and will be completed in a file called `lab00.md` in the team `_FEEDBACK` repos.  
 
-The repo <https://github.com/{{ucsb-cs48-w19}}/FEEDBACK_TEMPLATES> contains templates for feedback for various assignemnts that we'll
+The repo <https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES> contains templates for feedback for various assignemnts that we'll
 give throughout the quarter.  In that repo, locate the file:
 
-* <https://github.com/{{ucsb-cs48-w19}}/FEEDBACK_TEMPLATES/lab00.md>
+* <https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/lab00.md>
 
 You can copy the contents of that file into each of your feedback repos, and then fill in the template provided.
 
