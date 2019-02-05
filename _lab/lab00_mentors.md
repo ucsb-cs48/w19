@@ -27,7 +27,7 @@ The evaluation of lab00 is entirely at the team level, and will be completed in 
 The repo <https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES> contains templates for feedback for various assignemnts that we'll
 give throughout the quarter.  In that repo, locate the file:
 
-* <https://github.com/ucsb-cs48-w19/FEEDBACK_TEMPLATES/blob/master/lab00.md>
+* <https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/lab00.md>
 
 You can copy the contents of that file into each of your feedback repos, and then fill in the template provided.
 
