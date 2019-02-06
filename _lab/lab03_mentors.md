@@ -73,3 +73,9 @@ Create it as follows:
 Then, for each of these, only that individual student  as collaborators, by their github id, with READ ONLY permission.
 
 You'll get more instructions later on what to put in those feedback repos as the mentors start reviewing the work of the teams on lab00, lab01, lab02 and lab03, and then the TAs and the instructor begin to assign grades for it.
+
+Next steps:
+
+* <https://ucsb-cs48.github.io/w19/lab/lab00_mentors/>
+* <https://ucsb-cs48.github.io/w19/lab/lab01_mentors/>
+
