@@ -82,5 +82,24 @@ Then, add each of the team members to that repo as collaborators, by their githu
 
 It is not necessary to add your mentor, TA or instructor&mdash;we have access automatically since the repo is created under the github `{{page.github_org}}` organization.
 
+# Recording the artifact
+
+Make a file called `retro1.md` in the repo.
+
+## Required
+
+In the file:
+* Record who led the retro
+* Record the list of which team members participated in the retro
+* Record the *EXPERIMENT* that your team will undertake as a result of this retro
+   * Something your team will do differently
+   * What result you hope to get 
+   * How you will measure whether you got that result
+
+## Optional
+
+* Record anything else you think the team might want to remember from this retro
+
+
 
 
