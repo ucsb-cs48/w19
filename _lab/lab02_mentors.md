@@ -29,8 +29,8 @@ The evaluation of lab02 is divided into two parts:
 
 | Part | Template to Use | Where to Put It |
 |------|-----------------|-----------------|
-| Team | [<tt>{{page.lab}}-T</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{page.lab}}-T.md) | team `_FEEDBACK` repos |
-| Individual | [<tt>{{page.lab}}-I</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{page.lab}}-I.md) | individual `_FEEDBACK` repos |
+| Team | [<tt>{{lab}}-T</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{lab}}-T.md) | team `_FEEDBACK` repos |
+| Individual | [<tt>{{lab}}-I</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{lab}}-I.md) | individual `_FEEDBACK` repos |
 
 See [/lab/lab03_mentors]({{'/lab/lab03_mentors/' | relative_url }}) for:
 * an explanation of the two kinds of repos
