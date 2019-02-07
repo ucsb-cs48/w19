@@ -14,7 +14,7 @@ github_org: "ucsb-cs48-w19"
 https://ucsb-cs48.github.io/w19/lab/lab02_mentors/
 </div>
 
-{% capture lab %}{% page.num | replace: '_mentors','' %}{% endcapture %}
+{% capture lab %}{{ page.num | replace: '_mentors','' }}{% endcapture %}
 
 
 # These instructions are for mentors/TAs only
