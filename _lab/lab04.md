@@ -68,7 +68,7 @@ First thing: go to <https://github.com/{{page.github_org}}> and create a new **p
 
 | For team | create repo | with link    |
 |----------|-------------|--------------|
-| `4pm-stock-trading` | `4pm-stock-trading_RETROS` | [4pm-stock-trading_RETROS(https://github.com/{{page.github_org}}/4pm-stock-trading_RETROS) |
+| `4pm-stock-trading` | `4pm-stock-trading_RETROS` | [4pm-stock-trading_RETROS](https://github.com/{{page.github_org}}/4pm-stock-trading_RETROS) |
 | `5pm-pet-life` | `5pm-pet-life_RETROS` | [5pm-pet-life_RETROS](https://github.com/{{page.github_org}}/5pm-pet-life_RETROS) |
 
 etc...
