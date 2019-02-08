@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab04
-ready: false
+ready: trie
 desc: "First Team Retrospective"
 assigned: 2019-02-07 16:00
 due: 2019-02-07 19:00
