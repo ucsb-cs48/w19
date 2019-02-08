@@ -36,7 +36,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 **Graded**: ({{page.num}}-I) (20 pts) You earn these individual points if you participated in tonights retrospective.
 
 **Graded**: ({{page.num}}-I) (20 pts) You earn these points for submitting feedback on tonights retro via a Google Form survey.
-
+(See the General channel on the [ucsb-cs48-w19 Slack Channel](https://ucsb-cs48-w18.slack.com) for the link; to avoid spam entries, we aren't posting the link on the public facing website.)
 
 **Graded**: ({{page.num}}-T) (30 pts) You earn these team points based on the attendance/participation in your retrospective; 10 per team member for
 teams of 6, 12 per team member for teams of 5.
