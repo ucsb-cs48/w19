@@ -5,6 +5,21 @@ lecture_date: 2019-02-11
 ready: false
 ---
 
+# Reminder: When MVP is done, or wrapping up, think about testing
+
+If you are the first person to run out of things to work on towards MVP, add issues for testing and assign them to yourself:
+
+* Unit testing 
+   * Python: `unittest` or `pytest` or something else?  and `coverage`
+   * JS: `mocha`, `chai`, and `istanbul`?  Or something else?
+   * C#: Figure it out
+
+* Integration and End to End testing:
+   * For web apps, selenium?  Others?
+   * Look into frameworks for React, Node, Unity, PyGame
+   
+Ideally, we would have introduced this earlier, around the time of Hello World.
+
 # Announcements
 
 Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels with potentially useful/interesting stuff:
