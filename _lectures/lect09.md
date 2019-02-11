@@ -65,6 +65,7 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 6pm-stock-trading
 * 6pm-when2meet
 * 4pm-spotify
+* 6pm-when2meet
 
 
 
@@ -77,9 +78,7 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 4pm-stock-trading
 * 6pm-park-finder
 * 4pm-sleep-scheduler
-
-
-# Not sure
-
 * 5pm-Help-Those-In-Need
-* 6pm-when2meet
+
+
+
