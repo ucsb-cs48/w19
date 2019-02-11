@@ -61,6 +61,8 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 
 * 4pm-turkey-trot
 * 5pm-buy-my-clothes
+* 5pm-ucsb-rideshare
+
 
 
 # Teams presenting today
@@ -74,7 +76,6 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 4pm-sleep-scheduler
 * 4pm-stock-trading
 * 5pm-Help-Those-In-Need
-* 5pm-ucsb-rideshare
 * 5pm-pet-life
 * 6pm-park-finder
 * 6pm-stock-trading
