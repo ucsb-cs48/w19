@@ -5,6 +5,10 @@ lecture_date: 2019-02-11
 ready: false
 ---
 
+# Identifying partner groups
+
+Please write your partner group's name in the space on the white board.
+
 # Reminder: When MVP is done, or wrapping up, think about testing
 
 If you are the first person to run out of things to work on towards MVP, add issues for testing and assign them to yourself:
