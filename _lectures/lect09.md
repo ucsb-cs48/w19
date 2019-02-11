@@ -33,3 +33,8 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 
 # Teams that haven't presented yet
 
+* Say your name
+* Say name of your project, and 1 sentence description.
+* Give a demo, or describe your MVP
+* Show us your Kanban board, and describe what your team is focussed on right now
+
