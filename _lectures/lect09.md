@@ -2,7 +2,7 @@
 num: lect09
 desc: "More Presentations, identify partner groups"
 lecture_date: 2019-02-11
-ready: false
+ready: true
 ---
 
 # Identifying partner groups
