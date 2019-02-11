@@ -1,8 +1,9 @@
 ---
+num: lect16
+desc: "TBD (Ethics assignment given)"
 lecture_date: 2019-03-04
 ready: false
 ---
-
 
 UC Santa Barbara is an accredited US University, accredited through the normal process for accrediting higher education programs in the United States [(wikipedia article)](https://en.wikipedia.org/wiki/Higher_education_accreditation_in_the_United_States).
 In addition, the degree programs in the College of Engineering currently pursue a additional supplementary accreditation
