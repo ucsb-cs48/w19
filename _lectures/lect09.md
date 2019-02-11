@@ -1,6 +1,6 @@
 ---
 num: lect09
-desc: "TBD"
+desc: "More Presentations, identify partner groups"
 lecture_date: 2019-02-11
 ready: false
 ---
@@ -57,3 +57,22 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * Give a demo, or describe your MVP
 * Show us your Kanban board, and describe what your team is focussed on right now
 
+# Teams that have presented
+
+* 4pm-turkey-trot
+
+# Teams that have not presented
+
+* 4pm-spotify
+* 4pm-gold-scheduler
+* 4pm-sleep-scheduler
+* 4pm-stock-trading
+* 5pm-buy-my-clothes
+* 5pm-findtheroommate
+* 5pm-Help-Those-In-Need
+* 5pm-ucsb-rideshare
+* 5pm-pet-life
+* 6pm-park-finder
+* 6pm-stock-trading
+* 6pm-ucsb-rooms
+* 6pm-when2meet
