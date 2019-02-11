@@ -63,6 +63,7 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 5pm-buy-my-clothes
 * 5pm-ucsb-rideshare
 * 6pm-stock-trading
+* 6pm-when2meet
 
 
 
