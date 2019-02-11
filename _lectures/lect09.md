@@ -50,6 +50,16 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * If there are additional channels we should have (e.g. for `#html`, `#sqlalchemy`, `#react`, `#node`, `#unity` etc.) create them
 * Or suggest them on `#general` if you don't have access to create them.
 
+
+# Big Unexplored Topics
+
+* Design, and Design Patterns
+* Design Documents
+* Testing
+* Ethics
+
+
+
 # Teams that haven't presented yet
 
 * Say your name
