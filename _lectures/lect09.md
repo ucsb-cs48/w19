@@ -60,15 +60,19 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 # Teams that have presented
 
 * 4pm-turkey-trot
+* 5pm-buy-my-clothes
 
-# Teams that have not presented
+
+# Teams presenting today
+
+* 4pm-gold-scheduler
+* 5pm-findtheroommate
+
+# Not sure
 
 * 4pm-spotify
-* 4pm-gold-scheduler
 * 4pm-sleep-scheduler
 * 4pm-stock-trading
-* 5pm-buy-my-clothes
-* 5pm-findtheroommate
 * 5pm-Help-Those-In-Need
 * 5pm-ucsb-rideshare
 * 5pm-pet-life
