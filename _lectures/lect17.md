@@ -11,4 +11,4 @@ Project Presentations, Part 3 of 3
 Final opportunity for project presentation
 
 * Presentations are 5 minutes each on day 1, with 1 minute for questions and 1 minutes for transition. 
-* We should be able to fit in four presentations.
+* We should be able to fit in four presentations plus the course evals.
