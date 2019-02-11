@@ -73,13 +73,13 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 5pm-findtheroommate
 * 5pm-pet-life
 * 6pm-ucsb-rooms
+* 4pm-stock-trading
 
 
 # Not sure
 
 * 4pm-spotify
 * 4pm-sleep-scheduler
-* 4pm-stock-trading
 * 5pm-Help-Those-In-Need
 * 6pm-park-finder
 * 6pm-when2meet
