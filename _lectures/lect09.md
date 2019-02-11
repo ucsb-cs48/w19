@@ -69,6 +69,8 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 
 * 4pm-gold-scheduler
 * 5pm-findtheroommate
+* 5pm-pet-life
+
 
 # Not sure
 
@@ -76,7 +78,6 @@ Look on the Slack <https://ucsb-cs48-w19.slack.com>.  There are some channels wi
 * 4pm-sleep-scheduler
 * 4pm-stock-trading
 * 5pm-Help-Those-In-Need
-* 5pm-pet-life
 * 6pm-park-finder
 * 6pm-stock-trading
 * 6pm-ucsb-rooms
