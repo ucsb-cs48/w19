@@ -2,6 +2,7 @@
 num: lect00
 desc: "First day of class"
 lecture_date: 2019-01-07
+ready: true
 ---
 
 # Announcements
