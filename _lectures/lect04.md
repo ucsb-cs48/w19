@@ -18,3 +18,7 @@ More information on Dillon's consulting business is available at his website, <h
 - Prof. Conrad's own page on Retrospectives is here: [/topics/retros/](https://ucsb-cs48.github.io/topics/retros/)
 
 - [Diverge/Converge Facilitation Cheat Sheet](https://app.box.com/s/hx067mevo20i0rv2r2zspua9eyk2r4wn)
+
+- Coaching mindset diagram:
+
+![Coaching Mindset](https://image.slidesharecdn.com/shoshanaallice-110321033110-phpapp01/95/coaching-for-engagement-6-728.jpg?cb=1300678812)
