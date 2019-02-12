@@ -24,8 +24,10 @@ We will do these activities in three groups of 26, by discussion section.
 
 # Handouts
 
-* [ic00: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
-* [ic01: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
+Actually, we handed out ic01 first (these are numbered in the wrong order), and then ic00 only after ic01 was finished.
+
+* [ic00: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
+* [ic01: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
 
 # Instructor Instructions
 
