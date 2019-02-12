@@ -24,8 +24,8 @@ We will do these activities in three groups of 26, by discussion section.
 
 # Handouts
 
-* [Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
-
+* [ic00: Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
+* [ic01: Meet your Teammates](https://docs.google.com/document/d/1IgrTSVt1GiRzpXun-g5HIxcJEM2WzPPm7xCJaLmOdWM/edit?usp=sharing)
 
 # Instructor Instructions
 
