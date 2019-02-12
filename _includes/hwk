@@ -1,1 +1,2 @@
-{% capture url %}/hwk/{{include.hwk}}{% endcapture %}[{{include.hwk}}]({{include.url | relative_url }})
+{%- capture hwk_url -%}/hwk/{{include.hwk }}{%- endcapture -%}
+[{{ include.hwk }}]({{hwk_url | relative_url }})
