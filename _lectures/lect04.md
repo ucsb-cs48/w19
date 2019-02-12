@@ -15,4 +15,6 @@ More information on Dillon's consulting business is available at his website, <h
 
 # More about Retrospectives
 
-Prof. Conrad's own page on Retrospectives is here: [/topics/retros/](https://ucsb-cs48.github.io/topics/retros/)
+- Prof. Conrad's own page on Retrospectives is here: [/topics/retros/](https://ucsb-cs48.github.io/topics/retros/)
+
+- [Diverge/Converge Facilitation Cheat Sheet](https://app.box.com/s/hx067mevo20i0rv2r2zspua9eyk2r4wn)
