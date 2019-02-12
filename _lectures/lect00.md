@@ -22,6 +22,11 @@ Today, we'll divide into discussion sections, and do some activities that will h
 
 We will do these activities in three groups of 26, by discussion section.
 
+# Handouts
+
+* [Project Idea Sheet](https://docs.google.com/document/d/1YCPNBZbrRj6wTVrDBbHX1gR5CCwpMKXRbzWxBn2TZjY/edit?usp=sharing)
+
+
 # Instructor Instructions
 
 ## Seating arrangement
