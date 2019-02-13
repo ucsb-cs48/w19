@@ -1,6 +1,6 @@
 ---
 num: lect10
-desc: "TBD"
+desc: "Standup, Exam Preview, Time to meet"
 lecture_date: 2019-02-13
 ready: false
 ---
