@@ -7,8 +7,8 @@ ready: false
 
 Guest lecture by three senior staff from [Procore](https://www.procore.com/jobs)
 * [Heidi Helfland](http://www.heidihelfand.com/about/), Director, Engineering Excellence
-* Amir Shahheydari, Staff Quality Assurance Engineer
-* Jason Wojciechowski, Lead QA Engineer
+* [Amir Shahheydari](https://www.linkedin.com/in/ashahheydari), Staff Quality Assurance Engineer
+* [Jason Wojciechowski](https://www.linkedin.com/in/jason-wojciechowski-52027287), Lead QA Engineer
 
 # Topics 
 
