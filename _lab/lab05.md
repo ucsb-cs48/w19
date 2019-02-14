@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Deliver MVP"
 assigned: 2019-01-31 16:00
 due: 2019-02-14 19:00
@@ -29,9 +29,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
-# Instructions TBD
 
-Instructions for the demoing and presentation of the MVP to your mentor and TA during lab on {{page.due}} will appear here soon.
 
 #  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
 
@@ -72,6 +70,9 @@ Present, there should be:
 
 1.  Start by making sure that you and your helper from team A are added to the slack for team B.
 
+
+2.  On the slack, make a note of everyone present at the review from both teams.  Any members of team B that are missing, hopefully are missing becuse they are engaged in the reciprocal review of A's product.)
+    
 2.  Then, start by sitting at the lead reviewee from team B's computer, where lead reviewee from team B has the product up and running.
 
 3.  Ask the lead reviewee to walk you through the features of the product, as YOU, leader reviewer from team A, control the mouse and keyboard.    You, the lead reviewer should be going through the features of the product, led by an explanation of the reviewee from team B.  
@@ -115,3 +116,4 @@ For those that are not the lead reviewer or reviewee:
 * At least one other member of your team should be taking notes during the review of your team's product
 
 The other 1 or 2 members should stay with the team being reviewed, and as notes are taken in the slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
+
