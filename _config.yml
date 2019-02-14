@@ -41,7 +41,7 @@ legacy_wiki_name: "48wiki"
 
 submit_cs_course: TBD
 
-start_week: 0
+start_week: 1
 start_date: 2019-01-06 
 num_weeks: 10
 extra_exam_week: true

@@ -1,18 +1,17 @@
 ---
-num: lect16
-desc: "Project Presentations, 1 of 3"
-lecture_date: 2019-03-06
+num: lect15
+desc: "Project Presentations, 2 of 3, and TA Evals"
+lecture_date: 2019-03-11
 ready: false
 ---
 
 
-Project Presentations, Part 1 of 3
+Project Presentations, Part 2 of 3
 
-Teams that are ready and volunteer to present on this day will be placed into a lottery.   We'll draw names for who presents first.
+All teams should be ready to present by this day.   
 
-Each team that is drawn will do their presentation immediately, and all team members in good standing with their team will receive 1 pt of extra credit on their *final course grade*.
+* We'll take volunteers first.   Unlike in the previous lecture meeting, there is no extra credit boost for being ready this day.
+* After that we'll draw lots for presentation order.  If a team is not ready to present, all members of that team are docked 2 pts on their course grade (a penalty on top of all other grade calculations), and will be required to do their presentation the following class.
 
-If there are more teams than time available for presentations, only the names drawn (i.e. the ones that actually present) will get the extra credit.
-
-* Presentations are 10 minutes each on day 1, with 3 minute for questions and 2 minutes for transition. 
-* We should be able to fit in five presentations.
+* Presentations are 6 minutes each on day 1, with 2 minute for questions and 2 minutes for transition. 
+* We should be able to fit in five presentations plus doing the TA evals

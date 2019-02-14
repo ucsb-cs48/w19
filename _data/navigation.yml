@@ -47,8 +47,8 @@ offering_links:
   - title: Teams
     url: /teams_page/
     description: "Teams List"
-  - title: Project
-    url: /project_list/
+  - title: Lectures
+    url: /lectures/
     description: "Project"
   - title: Exam
     url: /exam_list/
