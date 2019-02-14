@@ -33,7 +33,19 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Instructions for the demoing and presentation of the MVP to your mentor and TA during lab on {{page.due}} will appear here soon.
 
+#  The right attitude and approach: friendly helpfulness
+
+First, it is important to have the right approach.  You are engaging in this review to *help the other team improve their code*.  This is not an opportunity for showing off or playing "gotcha".  
+
+On the other hand, don't hold back on sharing what you find.  The grade for this review is not based on how well team B's product performs.  It is based on how much team A is helpful to team B.     
+
+Everything you find that can be perceived as a weakness in team B's product is something that you can help them uncover early, so that they can address it while they still have time, long before the end of the quarter.
+
+Don't mock or criticize---be helpful and constructive.   If you have knowledge of a practice or technique that can help another team, make a note of that, and come back and share it later (e.g. on the slack).
+
 # Instructors for Reviewers
+
+
 
 As the reviewer, you are from team A, and reviewing the work of team B.
 
