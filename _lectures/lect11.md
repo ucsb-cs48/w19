@@ -2,7 +2,7 @@
 num: lect11
 desc: "QA, Acceptance Testing, Agile with Guest Speakers from Procore"
 lecture_date: 2019-02-20
-ready: false
+ready: true
 ---
 
 Guest lecture by three senior staff from [Procore](https://www.procore.com/jobs).
