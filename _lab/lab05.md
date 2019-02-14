@@ -33,7 +33,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 Instructions for the demoing and presentation of the MVP to your mentor and TA during lab on {{page.due}} will appear here soon.
 
-#  The right attitude and approach: friendly helpfulness
+#  The most helpful attitude and approach for reviewers: friendly helpfulness, not "gotcha"
 
 First, it is important to have the right approach.  You are engaging in this review to *help the other team improve their code*.  This is not an opportunity for showing off or playing "gotcha".  
 
@@ -43,9 +43,23 @@ Everything you find that can be perceived as a weakness in team B's product is s
 
 Don't mock or criticize---be helpful and constructive.   If you have knowledge of a practice or technique that can help another team, make a note of that, and come back and share it later (e.g. on the slack).
 
+# The most helpful attitude for reviewees: gratitude, not defensiveness.
+
+For reviewees, it can be really tough to be out front represnting your team as another team's representative goes through your product inside and out.  THere is a natural human tendency to become defensive.
+
+It may be helpful to resisit this urge.
+
+## What if we disagree with the reviewer's assesssment?
+
+That's ok.  It's ok to just nod and let it go.
+
+* You do NOT necessarily act on every piece of information or suggestion you receive from the reviewers.  
+* Your team may not agree with all of it.  
+* Your team has every right to decide, if they judge the advice or suggestions to be incorrect or unwise, to let them go.  It isn't necessary to argue back with the reviewer. 
+
+All I'm asking of you is to listen and consider it carefully, and discuss it as a team.  You might decide to discuss it later after the review is over, on the Slack channel.  With a bit of distance in space and time, you may find parts of it you agree with, or really good reasons to go in a different direction from what was suggested.
+
 # Instructors for Reviewers
-
-
 
 As the reviewer, you are from team A, and reviewing the work of team B.
 
@@ -78,8 +92,26 @@ Present, there should be:
     
     You should NOT need any credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.    At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process, but NOT by providing you database credentials or API credentials--only by walking you through the process of setting up your own.
     
+6.  [OPTIONAL IF TIME] If you are successful in setting up the project, and you get this far: start looking through the code for places you can make suggestions for improvement, or offer words of praise.  Most reviewers won't get this far.    
     
-
-
+7.  Closing the review: to close the review, try to offer a sandwich of praise and helpfulness:
+   * One thing you really liked about the project (inside or outside)
+   * The most impactful opportunity for improvement
+   * One more thing you thought was good
+   
+There will be additional instructions over the next few days for consolidating this review into a summary, but for tonight this is enough.    
 
 # Instructors for Revieweees
+
+Read through the instructions to reviewers, since most of what you need to know is already there.
+
+Your main job is to be at the service of the reviewer.   
+
+# Other members of the team
+
+For those that are not the lead reviewer or reviewee:
+
+* At least one  member of the team should be with the ambassador of your team to the other team being reviewed as a note taker
+* At least one other member of your team should be taking notes during the review of your team's product
+
+The other 1 or 2 members should stay with the team being reviewed, and as notes are taken in the slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
