@@ -58,6 +58,14 @@ Present, there should be:
     
     Comment on whatever you see that either in-line with what you experienced in the demo, out out of alignment, in your view as a potential user of the product.  Again, the notetakers should make notes as they did in earlier steps.
     
+5.  Now, pull up the README.md for the project in the repo.
+
+    Go through it and make sure it doesn't have any "TODO" items in it.  If it does, comment on those, and note that they should perhaps be addressed.  
+    
+    Finally, on your OWN computer, try to clone the repo, and follow the steps needed to get the application up and running.
+    
+    You should NOT need any credentials from the original team---if there is a database setup needed, you should BE ABLE TO DO THAT DATABASE SET UP YOURSELF by following the instructions in the README.md.  If that is not possible, then note this as one of the observations.    At any point that you are stuck and cannot continue, as a last resort, the reviewee can jump in and help, by guiding you through the process, but NOT by providing you database credentials or API credentials--only by walking you through the process of setting up your own.
+    
     
 
 
