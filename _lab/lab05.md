@@ -117,3 +117,32 @@ For those that are not the lead reviewer or reviewee:
 
 The other 1 or 2 members should stay with the team being reviewed, and as notes are taken in the slack, start setting up user stories and/or issues to follow up on the items suggested, or if needed, do emergency bug fixes/edits to code or documentation to address problems found during the review.
 
+# FOLLOW UP instructions for Reviewers
+
+1. Please create a private github repo under the course organization {{site.org}} that follows the following naming convention, with the team name of the team that you reviwed (not your own team).   Create it with a README.md only
+
+   | 4pm-spotify_REVIEWS          | 5pm-buy-my-clothes_REVIEWS	      | 6pm-park-finder_REVIEWS  
+   | 4pm-gold-scheduler_REVIEWS   | 5pm-findtheroommate_REVIEWS	      | 6pm-stock-trading_REVIEWS
+   | 4pm-turkey-trot_REVIEWS      | 5pm-Help-Those-In-Need_REVIEWS       | 6pm-ucsb-rooms_REVIEWS   
+   | 4pm-sleep-scheduler_REVIEWS  | 5pm-ucsb-rideshare_REVIEWS	      | 6pm-when2meet_REVIEWS    
+   | 4pm-stock-trading_REVIEWS    | 5pm-pet-life_REVIEWS                 |
+
+   (You may add a .gitignore if it makes things more convenient, but its optional)
+
+2. In that repo, add a file called <tt>{{page.num}}_reviewer.md</tt>. In this file, write a summary of your findings
+   during the review.
+
+   Include sections for each of the following:
+
+   1.  Everyone that was present for the review from each of the two teams, and the roles they were in.
+   2.  A summary of the features of the product as you understood them, and what you liked or thought could be
+       improved about each
+   3.  A summary of what you found on the Kanban board in terms of whether the user stories and issues were, or
+       were not in alignment with the features of the product.
+   4.  A summary of whether the README.md was in good shape according to the criteria outlined in
+       the lecture on good README.md practices, and whether you were able to follow the instructions there
+       to actually set up the product to compile and run on your own computer.
+   5.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
+       and one more thing you thought was good.
+
+
