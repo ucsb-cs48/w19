@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab06
-ready: false
+ready: true
 desc: "Mentor review of MVP +1 week"
 assigned: 2019-02-07 16:00
 due: 2019-02-21 19:00
@@ -11,11 +11,6 @@ github_org: "ucsb-cs48-w19"
 <div style="display:none">
 https://ucsb-cs48.github.io/w19/lab/lab06/
 </div>
-
-
-
-
-
 
 <style>
 div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color: #efe; }   
