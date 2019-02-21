@@ -187,6 +187,14 @@ You may use this Markdown template for the contents of `/teams/ROLES.md` to prod
 | Retro Leader (lab09)             |                     |
 ```
 
+# Reviewer from lab05
+
+See instructions at the end of lab05.   
+
+# Reviewee from lab05
+
+See instructions at the end of lab05.   
+
 ## Other team members
 
 After lab tasks for the following team members are coming soon.  For now, work on issues for your team!
