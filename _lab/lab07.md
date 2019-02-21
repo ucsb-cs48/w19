@@ -2,7 +2,7 @@
 layout: lab
 num: lab07
 ready: false
-desc: "TBD"
+desc: "Design Document"
 assigned: 2019-02-14 16:00
 due: 2019-02-28 19:00
 github_org: "ucsb-cs48-w19"
@@ -35,3 +35,5 @@ Instructions for:
 * {{page.due}} and 
 * what you need to complete by  {{page.due | date: "%a, %b %d at %l:%M%p"}}) 
 will appear here soon.
+
+Coming soon: Instructions for your design document
