@@ -130,6 +130,7 @@ After the retro
 * Post about the experiment on the slack
 * Record the experiment in the RETRO repo (same instructions as for the previous retro)
 * Remind team to fill out retro survey (the instructor posted the link in the Slack "retros" channel)
+* PLUS all team members should fill out the teamwork survey #1
 
 ## Product Owner / Scrum Master Followup
 
