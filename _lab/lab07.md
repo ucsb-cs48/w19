@@ -37,3 +37,24 @@ Instructions for:
 will appear here soon.
 
 Coming soon: Instructions for your design document
+
+
+
+# What you will do today
+
+1.  (10 minutes) Hold a standup meeting.   Your mentor should observe.
+2.  TBD... rest of steps here
+    
+# Follow up between now and next Tuesday midnight
+
+
+1.  TBD... rest of steps here
+
+# Follow up between now and next Wednesday lecture
+
+
+1.  TBD... rest of steps here
+
+# Follow up between now and next Thursday's lab
+
+1.  TBD... rest of steps here
