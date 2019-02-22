@@ -29,12 +29,7 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 </div>
 
-# Instructions TBD
 
-Instructions for:
-* {{page.due}} and 
-* what you need to complete by  {{page.due | date: "%a, %b %d at %l:%M%p"}}) 
-will appear here soon.
 
 # What you will do today
 
