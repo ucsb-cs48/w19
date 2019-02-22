@@ -111,6 +111,12 @@ div.grade { margin: 2em; padding: 1em; border: 2px solid #0c0; background-color:
 
 # After lab
 
+## ALL STUDENTS
+
+* attend and participate in your retro
+* fill out the retro survey (see the #retro channel on the slack for the link)
+* fill out the teamwork survey (see the #retro channel on the slack for the link)
+
 ## Retro Leader Followup
 
 Before the retro:
