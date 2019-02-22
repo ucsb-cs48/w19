@@ -197,10 +197,26 @@ See instructions at the end of lab05.
 
 See instructions at the end of lab05.   
 
+# Testing Coordinator
+
+Review this article on Acceptance Criteria: <https://ucsb-cs48.github.io/topics/testing_acceptance/> which includes
+the template used in the guest lecture by [Jason, Amir and Heidi from Procore](https://ucsb-cs48.github.io/w19/lectures/lect11/).
+
+Then go through all of your issues for the `final` sprint, and add acceptance criteria.
+
+Then, determine how to:
+* Create unit tests within the technology stack you are using (e.g. `unittest` or `pytest` for Python, `mocha` for node, etc.)
+* Set up Continuous Integration using Travis-CI
+
+Then:
+* Set up at least one unit test by next Thursday night in a branch, and then do a pull request to put that test in your master branch 
+* Set up Travis-Ci for the master branch of your repo
+* Add a Travis-Ci badge in the README.md of your repo, at the very top.
+
+
 ## Other team members
 
 After lab tasks for the following team members are coming soon.  For now, work on issues for your team!
 
 * UX coordinator
-* Testing coordinator
 * Final presentation
