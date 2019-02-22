@@ -128,6 +128,8 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
    | 4pm-stock-trading_REVIEWS    | 5pm-pet-life_REVIEWS                 |
 
    (You may add a .gitignore if it makes things more convenient, but its optional)
+   
+   Add the reviewee from the team you reviewed as a collaborator.  They will add everyone else on that team.
 
 2. In that repo, add a file called <tt>{{page.num}}_reviewer.md</tt>. In this file, write a summary of your findings
    during the review.
@@ -135,6 +137,7 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
    Include sections for each of the following:
 
    1.  Everyone that was present for the review from each of the two teams, and the roles they were in.
+       You may copy this from the reviewee's report if it is already present and accurate.
    2.  A summary of the features of the product as you understood them, and what you liked or thought could be
        improved about each
    3.  A summary of what you found on the Kanban board in terms of whether the user stories and issues were, or
@@ -145,4 +148,38 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
    5.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
        and one more thing you thought was good.
 
+
+# FOLLOW UP instructions for Reviewees
+
+1. If the reviewer has created the repo below, great.  If not, create it yourself, and add your reviewer as a collaborator.
+   Also add everyone on your team as a collaborator.
+
+   | 4pm-spotify_REVIEWS          | 5pm-buy-my-clothes_REVIEWS	      | 6pm-park-finder_REVIEWS  
+   | 4pm-gold-scheduler_REVIEWS   | 5pm-findtheroommate_REVIEWS	      | 6pm-stock-trading_REVIEWS
+   | 4pm-turkey-trot_REVIEWS      | 5pm-Help-Those-In-Need_REVIEWS       | 6pm-ucsb-rooms_REVIEWS   
+   | 4pm-sleep-scheduler_REVIEWS  | 5pm-ucsb-rideshare_REVIEWS	      | 6pm-when2meet_REVIEWS    
+   | 4pm-stock-trading_REVIEWS    | 5pm-pet-life_REVIEWS                 |
+
+   (You may add a .gitignore if it makes things more convenient, but its optional)
+
+2. In that repo, add a file called <tt>{{page.num}}_reviewee.md</tt>. In this file, write a summary of your findings
+   during the review.
+
+   Include sections for each of the following:
+
+   1.  Everyone that was present for the review from each of the two teams, and the roles they were in.
+       You may copy this from the reviewer's report if it is already present and accurate.
+   2.  A response to each of the other sections of the reviewers report, including actions that you may take as a team.
+       If the reviewer hasn't submitted their report yet, write a response based on the feedback you find
+       on the slack channel that pertains to these items:
+       
+        1.  A summary of the features of the product as you understood them, and what you liked or thought could be
+            improved about each
+        2.  A summary of what you found on the Kanban board in terms of whether the user stories and issues were, or
+            were not in alignment with the features of the product.
+        3.  A summary of whether the README.md was in good shape according to the criteria outlined in
+            the lecture on good README.md practices, and whether you were able to follow the instructions there
+            to actually set up the product to compile and run on your own computer.
+        4.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
+            and one more thing you thought was good.
 
