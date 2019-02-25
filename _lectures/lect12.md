@@ -9,7 +9,7 @@ last_before: "Midterm E01, Wed 02/27"
 
 * Midterm Exam is CANCELLED.  There will only be a final exam.
 * Today:
-   * Pick up {% include hwk hwk='h09' %} and get a bit of explanation
+   * Pick up {% include hwk hwk='h08' %} and get a bit of explanation
    * Do standup
    * Then testing
 * Thursday:
