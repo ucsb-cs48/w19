@@ -28,3 +28,8 @@ Please, though, **if you go**, I'd like to strongly encourage you to **use this 
 * Put a note on your team's slack channel with what you accomplished during this time.
 * Please don't do retro without your testing coordinator and their pair
 * You might get started on sprint planning---that's a decision you can make as a team.
+
+# TESTING
+
+* <https://github.com/pconrad/python-travis-ci-mvp>
+* <https://github.com/pconrad/nodejs-travis-ci-mvp>
