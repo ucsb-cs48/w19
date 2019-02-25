@@ -31,5 +31,12 @@ Please, though, **if you go**, I'd like to strongly encourage you to **use this 
 
 # TESTING
 
+Travis-CI is a "Continuous Integration" platform.
+
+The idea is to put all the parts of your application together and test them with EVERY build.
+* *continuous* integration, as opposed to putting the pieces together (integrating) only later, or only occasionally
+
+You can set it up to run a suite of tests with every push to master, every pull request, or on demand for any branch.
+
 * <https://github.com/pconrad/python-travis-ci-mvp>
 * <https://github.com/pconrad/nodejs-travis-ci-mvp>
