@@ -39,10 +39,10 @@ offerings:
 
 offering_links:
   - title: Hwk
-    url: /hwk_list/
+    url: /hwk/
     description: "Homework Assignments"
   - title: Lab
-    url: /lab_list/
+    url: /lab/
     description: "Lab Assignments"
   - title: Teams
     url: /teams_page/
@@ -51,7 +51,7 @@ offering_links:
     url: /lectures/
     description: "Project"
   - title: Exam
-    url: /exam_list/
+    url: /exam/
     description: "Exams"
   - title: Cal
     url: /info/calendar/
@@ -62,12 +62,12 @@ offering_links:
          url: /info/syllabus/
          description: "Syllabus"    
        - title: Info Pages
-         url: /info_list/
+         url: /info/
          description: "List of General Information Pages"
        - title: Office Hours	
          url: /info/office_hours/
        - title: Staff
-         url: /staff_list/
+         url: /staff/
   - title: Links
     dropdown:	 
        - title: Gauchospace

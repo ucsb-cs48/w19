@@ -1,6 +1,6 @@
 ---
 title: Exams
-permalink: "/exam_list/"
+permalink: "/exam/"
 ---
 
 # {{site.course}}, {{site.quarter}}

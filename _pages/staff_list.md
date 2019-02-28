@@ -1,6 +1,6 @@
 ---
 title: "Staff List"
-permalink: "/staff_list/"
+permalink: "/staff/"
 ---
 
 # {{site.course}}, {{site.quarter}}

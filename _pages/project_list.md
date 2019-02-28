@@ -1,6 +1,6 @@
 ---
 title: Project
-permalink: "/project_list/"
+permalink: "/project/"
 ---
 
 # {{site.course}}, {{site.quarter}}

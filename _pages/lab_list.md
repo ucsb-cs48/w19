@@ -1,6 +1,6 @@
 ---
 title: Homework
-permalink: "/lab_list/"
+permalink: "/lab/"
 ---
 
 # {{site.course}}, {{site.quarter}}
