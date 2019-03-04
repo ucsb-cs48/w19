@@ -10,5 +10,6 @@ layout: default
 
 <h2 >Presentation Rubric</h2>
 
+Link to rubric [as a page](https://docs.google.com/document/d/e/2PACX-1vQHDBGpEPiafGPa8blXWx5Ew0sZyzT-UgRgFuufxcr-T_KsYQHzF9dL_k9wEo32jkrWJzevV-bXcjD0/pub)
 
 <iframe class="rubric" src="https://docs.google.com/document/d/e/2PACX-1vQHDBGpEPiafGPa8blXWx5Ew0sZyzT-UgRgFuufxcr-T_KsYQHzF9dL_k9wEo32jkrWJzevV-bXcjD0/pub?embedded=true"></iframe>
