@@ -6,7 +6,7 @@ permalink: "/travis-ci/"
 
 | Team | Travis-CI Status |
 |------|------------------|
-|[4pm-spotify](https://github.com/ucsb-cs48-w19/4pm-spotify)|[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify)"[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify)|
+|[4pm-spotify](https://github.com/ucsb-cs48-w19/4pm-spotify)|[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-spotify)|
 |[4pm-gold-scheduler](https://github.com/ucsb-cs48-w19/4pm-gold-scheduler)|[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-gold-scheduler.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-gold-scheduler)|
 |[4pm-turkey-trot](https://github.com/ucsb-cs48-w19/4pm-turkey-trot)|[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-turkey-trot.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-turkey-trot)|
 |[4pm-sleep-scheduler](https://github.com/ucsb-cs48-w19/4pm-sleep-scheduler)|[![Build Status](https://travis-ci.org/ucsb-cs48-w19/4pm-sleep-scheduler.svg?branch=master)](https://travis-ci.org/ucsb-cs48-w19/4pm-sleep-scheduler)|
