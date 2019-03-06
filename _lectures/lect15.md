@@ -11,13 +11,14 @@ ready: false
 
 *Monday 03/11*
 
-| Time | Team |
-|-|-|
-| 2:00pm-2:10pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
-| 2:15pm-2:25pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
-| 2:30pm-2:40pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
-| 2:45pm-2:55pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
-| 3:05pm-3:10pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
+| Time | Team | Description |
+|-|-|-|
+| 2:00pm-2:10pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) | |
+| 2:15pm-2:25pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) ||
+| 2:30pm-2:40pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) ||
+| 2:45pm-2:55pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) ||
+| 3:05pm-3:10pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    ||
+{:.table}
 
 # Original Protocol
 
