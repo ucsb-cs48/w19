@@ -18,6 +18,7 @@ ready: false
 | 2:30pm-2:45pm | Course/Instructor Evaluations | A web app for UCSB students to find the next great roommate.|
 | 2:45pm-2:55pm | [5pm Find the roommate](https://github.com/ucsb-cs48-w19/5pm-findtheroommate) | A web app for UCSB students to find the next great roommate. |
 | 3:05pm-3:10pm | [4pm Turkey Trot](https://github.com/ucsb-cs48-w19/4pm-turkey-trot) | A Thanksgiving-themed sidescrolling game written with PyGame. |
-{:.table }
+{:.table .table-sm .table-striped .table-bordered}
+
 
 TA Evaluations will be done in discussion section in Week 10.
