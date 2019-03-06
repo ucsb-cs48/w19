@@ -21,12 +21,21 @@ Here are the five that were chosen from among the seven that expressed a prefere
 |-|
 | [4pm Gold Scheduler](https://github.com/ucsb-cs48-w19/4pm-spotify) |
 | [5pm Buy my clothes](https://github.com/ucsb-cs48-w19/5pm-buy-my-clothes) |
-| [6pm Stock Trading](https://github.com/ucsb-cs48-w19/6pm-stock-trading |
+| [6pm Stock Trading](https://github.com/ucsb-cs48-w19/6pm-stock-trading) |
 | [6pm When2meet](https://github.com/ucsb-cs48-w19/6pm-when2meet) |
 | [6pm UCSB rooms](https://github.com/ucsb-cs48-w19/6pm-ucsb-rooms) |
 
 
-# How these teams were chosen
+# How the presentation order was decided.
+
+* We asked the presenter for each team to consult with the class and rank their preferences of doing on day 1, 2, or 3 of the presentations.  
+* The presenter than filled out a Google Form on behalf of the team providing these rank order preferences.
+* Per Prof. Conrad's original published protocol below (modified after consultation with Prof. Kharitonova and with the class), if there were more than 5 teams that want to present on day one, a random selection would be made.   Teams that volunteer and are chosen to present get a 1 pt boost in their final course grade (in recognition of the extra effort needed to be ready to present less than 24 hours after the deadline, as opposed to having several days to prepare.)
+* It worked out that seven teams volunteered for day one, but only five could be accomodated.   A random choice was made.  The two teams not selected were able to be scheduled on their second choice day.  Everyone else got their first choice date.
+
+# Original protocol 
+
+This protocol was set aside in favor of the one outlined above.
 
 <s>Teams that are ready and volunteer to present on this day will be placed into a lottery.   We'll draw names for who presents first.</s>
 
@@ -34,6 +43,5 @@ Here are the five that were chosen from among the seven that expressed a prefere
 
 <s>If there are more teams than time available for presentations, only the names drawn (i.e. the ones that actually present) will get the extra credit.</s>
 
-* Presentations are 10 minutes each on day 1, with 3 minute for questions and 2 minutes for transition. 
-* We should be able to fit in five presentations.
+
 
