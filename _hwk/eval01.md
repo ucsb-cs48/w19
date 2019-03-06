@@ -6,7 +6,7 @@ assigned: 2019-03-06 14:00
 due: 2019-03-06 15:15
 ---
 
-<div style="display:none;">https://ucsb-cs48.github.io/w19/hwk/ic03/</div>
+<div style="display:none;">https://ucsb-cs48.github.io/w19/hwk/eval01/</div>
 
 To be filled out in class and turned in on {{page.due | date: "%a, %b %d, %y"}}
 
