@@ -20,7 +20,7 @@ Here are the five that were chosen from among the seven that expressed a prefere
 |-|-|-|
 | 2:00-2:10pm | [4pm Gold Scheduler](https://github.com/ucsb-cs48-w19/4pm-gold-scheduler) | A webapp for UCSB students to help them plan their fututre quarter schedules|
 | 2:15-2:25pm | [5pm Buy my clothes](https://github.com/ucsb-cs48-w19/5pm-buy-my-clothes) | A web app for you to show off your style to others and browse new outfits to shop.|
-| 2:30-2:40pm | [6pm Stock Trading](https://github.com/ucsb-cs48-w19/6pm-stock-trading) ||
+| 2:30-2:40pm | [6pm Stock Trading](https://github.com/ucsb-cs48-w19/6pm-stock-trading) | Mock environment for managaed account investment structure.|
 | 2:45-2:55pm | [6pm When2meet](https://github.com/ucsb-cs48-w19/6pm-when2meet) ||
 | 3:00-3:10pm | [6pm UCSB rooms](https://github.com/ucsb-cs48-w19/6pm-ucsb-rooms) ||
 {:.table .table-sm .table-striped .table-bordered}
