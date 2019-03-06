@@ -34,7 +34,7 @@ Please rate your own presentation as well; simply mark the box that says: "This 
 <li> (5 pts) What is the team name? 
 </li>
 
-<li> (5 pts) Rate the presentation according to the 1-5 rubric
+<li markdown="1"> (5 pts) Rate the presentation according to the 1-5 rubric
  
 | Poor | | Acceptable | | Excellent |
 | <b>☐</b> 1 |   <b>☐</b> 2 |   <b>☐</b> 3  |   <b>☐</b> 4 |   <b>☐</b>  5|  
