@@ -12,8 +12,8 @@ ready: false
 
 *Monday 03/11*
 
-| Team |
-|-|
+| Time | Team |
+|-|-|
 | 2:00pm-2:09pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
 | 2:13pm-2:22pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
 | 2:26pm-2:35pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
