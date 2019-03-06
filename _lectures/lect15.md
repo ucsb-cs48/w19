@@ -14,11 +14,11 @@ ready: false
 
 | Team |
 |-|
-| [5pm Help those in need]() |
-| [6pm Park Finder]() |
-| [4pm Spotify]() |
-| [4pm Stock Trading]() |
-| [5pm Pet Life]()    |
+| [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
+| [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
+| [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
+| [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
+| [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
 
 
 
