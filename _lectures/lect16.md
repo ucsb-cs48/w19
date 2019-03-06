@@ -17,6 +17,6 @@ ready: false
 | 2:15pm-2:25pm | [5pm UCSB rideshare](https://github.com/ucsb-cs48-w19/5pm-ucsb-rideshare) |
 | 2:30pm-2:45pm | Course/Instructor Evaluations |
 | 2:45pm-2:55pm | [5pm Find the roommate](https://github.com/ucsb-cs48-w19/5pm-findtheroommate) |
-| 3:05pm-3:10pm | [4pm Turkey Trot]() |
+| 3:05pm-3:10pm | [4pm Turkey Trot](https://github.com/ucsb-cs48-w19/4pm-turkey-trot) |
 
 TA Evaluations will be done in discussion section in Week 10.
