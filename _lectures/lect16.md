@@ -6,9 +6,17 @@ ready: false
 ---
 
 
-Project Presentations, Part 3 of 3
+* Presentations are 10 minutes each, with 4 minute for questions and 1 minute for transition. 
 
-Final opportunity for project presentation
 
-* Presentations are 5 minutes each on day 1, with 1 minute for questions and 1 minutes for transition. 
-* We should be able to fit in four presentations plus the course evals.
+*Wednesday 03/13*
+
+| Time | Team |
+|-|-|
+| 2:00pm-2:15pm | [4pm Sleep Scheduler]() |
+| 2:15pm-2:25pm | [5pm UCSB rideshare]() |
+| 2:30pm-2:45pm | Course/Instructor Evaluations |
+| 2:45pm-2:55pm | [5pm Find the roommate]() |
+| 3:05pm-3:10pm | [4pm Turkey Trot]() |
+
+TA Evaluations will be done in discussion section in Week 10.
