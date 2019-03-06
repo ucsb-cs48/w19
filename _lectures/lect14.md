@@ -23,7 +23,8 @@ Here are the five that were chosen from among the seven that expressed a prefere
 | 2:30-2:40pm | [6pm Stock Trading](https://github.com/ucsb-cs48-w19/6pm-stock-trading) ||
 | 2:45-2:55pm | [6pm When2meet](https://github.com/ucsb-cs48-w19/6pm-when2meet) ||
 | 3:00-3:10pm | [6pm UCSB rooms](https://github.com/ucsb-cs48-w19/6pm-ucsb-rooms) ||
-{:.table}
+{:.table .table-sm .table-striped .table-bordered}
+
 
 
 # How the presentation order was decided.
