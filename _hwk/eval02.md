@@ -1,7 +1,7 @@
 ---
 num: "eval02"
 desc: "Evaluation of day 2 presentations"
-ready: false
+ready: true
 assigned: 2019-03-11 14:00
 due: 2019-03-11 15:15
 suppress_hwk_boilerplate: true
