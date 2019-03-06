@@ -34,7 +34,7 @@ span.my-team  { padding-left: 8em; padding-right: 3em; border: 0px }
 span.my-team b {font-size: 150%}
 </style>
 
-<div style="display:none;">https://ucsb-cs48.github.io/w19/hwk/eval01/</div>
+<div style="display:none;">https://ucsb-cs48.github.io/w19/hwk/eval03/</div>
 
 Please evaluate today's speakers using the following rubric.  Please rate your own presentation as well; simply mark the box that says: "This is my own group's presentation".  This should be filled out in class and turned in on {{page.due | date: "%a, %b %d, %Y"}}
 
