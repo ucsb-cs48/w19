@@ -17,7 +17,7 @@ ready: false
 | 2:15pm-2:25pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |Friendly and useful park finder! Helps avid tree-huggers find the perfect park!|
 | 2:30pm-2:40pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) | A Shared Spotify Queue for Music Collaboration|
 | 2:45pm-2:55pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) | A simple easy to use app that helps you make more informed stock-related decisions.|
-| 3:05pm-3:10pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    ||
+| 3:05pm-3:10pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |It’s a game that will let the users keep a digital pet for fun.|
 {:.table}
 
 # Original Protocol
