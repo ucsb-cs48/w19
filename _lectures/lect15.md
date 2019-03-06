@@ -7,19 +7,17 @@ ready: false
 
 # Project Presentations, Part 2 of 3
 
-* Presentations are 9 minutes each on day 2, with 2 minute for questions and 2 minutes for transition.
-* We should be able to fit in five presentations (65 minutes) plus doing the TA evals (10 minutes)
+* Presentations are 10 minutes each, with 4 minute for questions and 1 minute for transition. 
 
 *Monday 03/11*
 
 | Time | Team |
 |-|-|
-| 2:00pm-2:09pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
-| 2:13pm-2:22pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
-| 2:26pm-2:35pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
-| 2:39pm-2:48pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
-| 2:52pm-3:01pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
-| 3:05pm-3:10pm | TA Evaluations   |
+| 2:00pm-2:10pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
+| 2:15pm-2:25pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
+| 2:30pm-2:40pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
+| 2:45pm-2:55pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
+| 3:05pm-3:10pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
 
 # Original Protocol
 
