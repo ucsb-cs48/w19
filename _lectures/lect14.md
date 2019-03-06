@@ -6,7 +6,9 @@ ready: false
 ---
 
 
+# eval01
 
+You will fill out evaluation sheets for the presentations today, using [eval01]{% include hwk hwk="eval01"}; this will count as a homework grade.
 
 # Project Presentations, Part 1 of 3
 
