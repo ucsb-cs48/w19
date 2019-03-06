@@ -14,13 +14,12 @@ ready: false
 
 | Team |
 |-|
-| [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
-| [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
-| [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
-| [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
-| [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
-
-
+| 2:00pm-2:09pm | [5pm Help those in need](https://github.com/ucsb-cs48-w19/5pm-Help-Those-In-Need) |
+| 2:13pm-2:22pm | [6pm Park Finder](https://github.com/ucsb-cs48-w19/6pm-park-finder) |
+| 2:26pm-2:35pm | [4pm Spotify](https://github.com/ucsb-cs48-w19/4pm-spotify) |
+| 2:39pm-2:48pm | [4pm Stock Trading](https://github.com/ucsb-cs48-w19/4pm-stock-trading) |
+| 2:52pm-3:01pm | [5pm Pet Life](https://github.com/ucsb-cs48-w19/5pm-pet-life)    |
+| 3:05pm-3:10pm | TA Evaluations   |
 
 # Original Protocol
 
