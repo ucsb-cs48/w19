@@ -10,8 +10,7 @@ ready: false
 
 # Project Presentations, Part 1 of 3
 
-* Presentations are 10 minutes each on day 1, with 3 minute for questions and 2 minutes for transition. 
-* We should be able to fit in five presentations.
+* Presentations are 10 minutes each on day 1, with 4 minute for questions and 1 minute for transition. 
 
 Here are the five that were chosen from among the seven that expressed a preference to go on day 1.
 
