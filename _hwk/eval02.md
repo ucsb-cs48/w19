@@ -8,7 +8,7 @@ suppress_hwk_boilerplate: true
 ---
 
 <style>
-li {margin-bottom: 0.25em; margin-top: 0.25em}
+li {margin-bottom: 0.25em; margin-top: 0.25em; border-bottom: 2px solid black }
 .mc  b {font-size: 250%; }
 .mc td { width: 6em; text-align: center; }
 .mc td:first-of-type { border: 0px; width: 16em; text-align: left; }
