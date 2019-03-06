@@ -13,7 +13,7 @@ table.mc * b {font-size: 200%; }
 
 <div style="display:none;">https://ucsb-cs48.github.io/w19/hwk/eval01/</div>
 
-To be filled out in class and turned in on {{page.due | date: "%a, %b %d, %y"}}
+To be filled out in class and turned in on {{page.due | date: "%a, %b %d, %Y"}}
 
 Please evaluate today's speakers using the following rubric. 
 
