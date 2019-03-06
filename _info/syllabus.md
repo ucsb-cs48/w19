@@ -55,10 +55,10 @@ A+ grades: These may be awarded to the very best performing students in the clas
 | Grade Item                                                                   | Percentage of Final Grade |
 |------------------------------------------------------------------------------|---------------------------|
 | <s>Midterm</s>  | <s>15 %</s> |
-| Final | <s>15</s> 20% |
-| Hwks, In Class Assignments | <s>10</a> 15% |
 | <s>Labs</s> | <s>10 %</s> |
 | <s>Projects</a>  | <s>50</s> % |
+| Final | <s>15</s> 20% |
+| Hwks, In Class Assignments | <s>10</s> 15% |
 | Project Grade (i.e. labs)  | 65% |
 
 Missing homework/in-class activities: Drop the lowest {{ site.hwk_drop_lowest }}
