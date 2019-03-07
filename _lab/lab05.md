@@ -183,3 +183,12 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
         4.  Your final closing thoughts: something you liked, the most impactful opportunity for improvement,
             and one more thing you thought was good.
 
+
+
+<div class="grade" markdown="1">
+
+**Graded**: ({{page.num}}) (50 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).  You get 10 points for each of the five items that are supposed to be in the report.
+
+**Graded**: ({{page.num}}-I) (50 pts) For Reviewee report in `_REVIEWS` repo of your own team.  You get 10 points for having the report there, and 10 points for each of the four items that are supposed to be in the report.
+
+</div>
