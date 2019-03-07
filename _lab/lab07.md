@@ -14,3 +14,4 @@ https://ucsb-cs48.github.io/w19/lab/lab07/
 
 This week the teams were simply given time to work on their projects.
 
+There is no grade from lab07.
