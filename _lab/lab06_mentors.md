@@ -35,6 +35,9 @@ The evaluation of [{{lab}}]({{lab_url}}) is only at the team level:
 
 You can copy the contents of the templates file into the feedback repo and then fill it out.
 
+For checking whether students responded to the retro survey, you can check this Google Sheet [retro2-survey-results](https://docs.google.com/spreadsheets/d/1RxCEAeJnDDQb0Er5UONS7HrBw6RLtriyV0H8eyNGTDk/edit?usp=sharing), which is private and available only to those authorized to view it:
+
+
 # TA Review/Grading of {{lab}}
 
 Due {{page.ta_due}}
