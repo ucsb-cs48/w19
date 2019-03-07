@@ -190,7 +190,7 @@ The other 1 or 2 members should stay with the team being reviewed, and as notes 
 **Graded**: ({{page.num}}) (50 pts) For Reviewer report in `_REVIEWS` repo of the partner team (not your own team's repo).
 Report should contain all items indicated above.
 
-**Graded**: ({{page.num}}-I) (50 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
+**Graded**: ({{page.num}}) (50 pts) For Reviewee response report in `_REVIEWS` repo of your own team.  
 Report should contain all items indicated above.
 
 </div>
