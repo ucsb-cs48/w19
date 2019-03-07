@@ -25,19 +25,14 @@ Students, you are welcome to read them; there are no secrets here.   But there a
 
 Due {{page.mentor_due}}
 
-The evaluation of [{{lab}}]({{lab_url}}) is divided into two parts:
+The evaluation of [{{lab}}]({{lab_url}}) is only at the team level:
 
 | Part | Template to Use | Where to Put It |
 |------|-----------------|-----------------|
-| Team | [<tt>{{lab}}-T</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{lab}}-T.md) | team `_FEEDBACK` repos |
-| Individual | [<tt>{{lab}}-I</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{lab}}-I.md) | individual `_FEEDBACK` repos |
+| Team | [<tt>{{lab}}</tt>](https://github.com/{{page.github_org}}/FEEDBACK_TEMPLATES/blob/master/{{lab}}.md) | team `_FEEDBACK` repos |
 
-See [/lab/lab00_mentors]({{'/lab/lab00_mentors/' | relative_url }}) for:
-* an explanation of the two kinds of repos
-* where to find them if they are already setup
-* how to set them up if you haven't done that yet.
 
-You can copy the contents of the templates file into each of the respective feedback repos, and then fill it out.
+You can copy the contents of the templates file into the feedback repo and then fill it out.
 
 # TA Review/Grading of {{lab}}
 
