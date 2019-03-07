@@ -220,3 +220,15 @@ After lab tasks for the following team members are coming soon.  For now, work o
 
 * UX coordinator
 * Final presentation
+
+
+<div class="grade" markdown="1">
+
+**Graded**: 
+
+* ({{page.num}}) (20 pts) Markdown template with list of roles is posted in `/team/ROLES.md` in Master branch of repo.
+* ({{page.num}}) (20 pts) Unit and/or integration tests are present on the master branch of the repo
+* ({{page.num}}) (20 pts) A Sprint Planning meeting took place
+* ({{page.num}}) (20 pts) A Retro was held, and there is a record of that retro in the teams `_RETRO` repo, with a discussion of the last sprint's experiment, and the current sprint's experiment.
+* ({{page.num}}) (20 pts) Team has filled out the second retro follow up survey.
+</div>
