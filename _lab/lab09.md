@@ -39,9 +39,8 @@ Clearly, this team retro / adjourning ceremony must be serving a different purpo
 
 We'll discuss this in the days leading up to {{page.num}}.
 
-# Instructions TBD
+# Instructions
 
-Instructions for:
-* {{page.due}} and 
-* what you need to complete by  {{page.due | date: "%a, %b %d at %l:%M%p"}} 
-will appear here soon.
+* Pick up group feedback
+* Do final retrospective, taking your peers' feedback into account
+* Fill out TA evals
